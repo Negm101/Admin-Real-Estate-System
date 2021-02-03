@@ -1,0 +1,1000 @@
+PO100,AG111,Fredi Harburtson,Full Floor,Inactive,87 Weeping Birch Junction,42671,Rent
+PO101,AG111,Fredi Harburtson,Villa,Active,252 Superior Junction,366566,Buy
+PO102,AG111,Fredi Harburtson,Full Floor,Inactive,44246 Butternut Avenue,416570,Buy
+PO103,AG111,Fredi Harburtson,Pent House,Active,219 Maple Terrace,141118,Rent
+PO104,AG111,Fredi Harburtson,Appartment,Inactive,65348 Red Cloud Court,284165,Rent
+PO105,AG111,Fredi Harburtson,Appartment,Active,482 Onsgard Point,220821,Buy
+PO106,AG111,Fredi Harburtson,House,Active,5 Vahlen Circle,239990,Buy
+PO107,AG111,Fredi Harburtson,Villa,Active,38 Burning Wood Crossing,233828,Buy
+PO108,AG111,Fredi Harburtson,Appartment,Active,01276 Sutteridge Pass,320428,Buy
+PO109,AG111,Fredi Harburtson,Appartment,Inactive,2 Northview Avenue,225816,Rent
+PO110,AG111,Fredi Harburtson,Pent House,Inactive,3 Swallow Point,67551,Buy
+PO111,AG111,Fredi Harburtson,House,Active,5 Burrows Park,390206,Buy
+PO112,AG111,Fredi Harburtson,Villa,Inactive,72 Tennessee Plaza,150872,Rent
+PO113,AG111,Fredi Harburtson,Pent House,Inactive,052 4th Parkway,273117,Rent
+PO114,AG111,Fredi Harburtson,House,Inactive,734 Sloan Road,55263,Rent
+PO115,AG111,Fredi Harburtson,House,Inactive,2566 Carberry Road,448404,Buy
+PO116,AG111,Fredi Harburtson,Pent House,Active,0769 Mayer Pass,61627,Rent
+PO117,AG111,Fredi Harburtson,Pent House,Inactive,80149 Beilfuss Park,188836,Rent
+PO118,AG111,Fredi Harburtson,Full Floor,Inactive,33 Crowley Terrace,165272,Buy
+PO119,AG111,Fredi Harburtson,Pent House,Active,2 Petterle Circle,293213,Rent
+PO120,AG111,Fredi Harburtson,Villa,Active,993 Pankratz Way,158077,Rent
+PO121,AG111,Fredi Harburtson,Appartment,Inactive,652 Melvin Hill,10760,Buy
+PO122,AG111,Fredi Harburtson,Full Floor,Active,993 Green Ridge Center,82048,Buy
+PO123,AG111,Fredi Harburtson,Villa,Active,5 4th Drive,62490,Buy
+PO124,AG111,Fredi Harburtson,Full Floor,Inactive,47449 Stoughton Circle,330562,Rent
+PO125,AG111,Fredi Harburtson,Villa,Inactive,3 Almo Circle,135235,Rent
+PO126,AG111,Fredi Harburtson,House,Active,0040 Merrick Lane,304747,Rent
+PO127,AG111,Fredi Harburtson,Pent House,Active,56012 Artisan Circle,50187,Buy
+PO128,AG111,Sharity Blackaller,Pent House,Active,41 Fuller Pass,275856,Buy
+PO129,AG111,Sharity Blackaller,Villa,Inactive,43 Spohn Hill,49780,Buy
+PO130,AG111,Sharity Blackaller,Full Floor,Active,3 Transport Plaza,126569,Buy
+PO131,AG111,Sharity Blackaller,Pent House,Active,3768 Forest Run Point,27713,Buy
+PO132,AG111,Sharity Blackaller,Pent House,Active,87387 Warner Terrace,26584,Buy
+PO133,AG111,Sharity Blackaller,Villa,Active,1 Pierstorff Hill,155307,Rent
+PO134,AG111,Sharity Blackaller,House,Inactive,9 Redwing Road,488778,Buy
+PO135,AG111,Sharity Blackaller,Villa,Active,86090 Commercial Drive,135825,Buy
+PO136,AG111,Sharity Blackaller,Appartment,Active,85 Dunning Circle,361190,Rent
+PO137,AG111,Sharity Blackaller,Villa,Inactive,3 Birchwood Avenue,436088,Buy
+PO138,AG111,Sharity Blackaller,Appartment,Active,7 Orin Junction,164408,Buy
+PO139,AG111,Sharity Blackaller,Villa,Active,57858 Sunnyside Plaza,133600,Buy
+PO140,AG111,Sharity Blackaller,Appartment,Inactive,79119 Waywood Lane,421238,Rent
+PO141,AG111,Sharity Blackaller,Appartment,Active,2 Debra Place,413925,Rent
+PO142,AG111,Sharity Blackaller,Villa,Active,7900 Ludington Point,359146,Buy
+PO143,AG111,Sharity Blackaller,House,Active,5015 Dryden Way,77969,Rent
+PO144,AG111,Sharity Blackaller,House,Active,36454 Mosinee Road,96827,Rent
+PO145,AG111,Brana Cahillane,Pent House,Active,7 Mifflin Center,347694,Rent
+PO146,AG111,Brana Cahillane,Villa,Inactive,170 Huxley Junction,492816,Rent
+PO147,AG111,Brana Cahillane,House,Inactive,394 Larry Center,64876,Rent
+PO148,AG111,Brana Cahillane,Appartment,Inactive,6645 Maple Circle,163921,Rent
+PO149,AG111,Brana Cahillane,Appartment,Active,94386 Bay Road,21082,Buy
+PO150,AG111,Brana Cahillane,Villa,Inactive,192 Mccormick Road,280666,Rent
+PO151,AG111,Brana Cahillane,Full Floor,Active,17094 Annamark Parkway,361535,Buy
+PO152,AG111,Brana Cahillane,Villa,Inactive,3977 Golf View Road,365751,Buy
+PO153,AG111,Brana Cahillane,Pent House,Active,225 Johnson Parkway,192286,Rent
+PO154,AG111,Brana Cahillane,Appartment,Active,02151 Corry Plaza,99681,Buy
+PO155,AG111,Brana Cahillane,Appartment,Active,0 Farmco Way,186067,Rent
+PO156,AG111,Brana Cahillane,Villa,Inactive,6 Fairview Court,227410,Buy
+PO157,AG111,Brana Cahillane,Pent House,Active,0196 Rusk Road,467535,Rent
+PO158,AG111,Brana Cahillane,Villa,Active,25482 Chinook Drive,180362,Buy
+PO159,AG111,Brana Cahillane,Appartment,Inactive,10768 Comanche Hill,31048,Rent
+PO160,AG111,Brana Cahillane,Appartment,Inactive,8 Sage Center,222807,Buy
+PO161,AG111,Brana Cahillane,Pent House,Active,1 Hintze Court,210557,Rent
+PO162,AG111,Brana Cahillane,Full Floor,Inactive,68 Sheridan Park,44404,Rent
+PO163,AG111,Brana Cahillane,Full Floor,Inactive,16 Ramsey Alley,489791,Rent
+PO164,AG111,Brana Cahillane,Villa,Inactive,82423 Roxbury Hill,298077,Rent
+PO165,AG111,Reuben Veeler,Pent House,Active,84954 Bultman Drive,498748,Rent
+PO166,AG111,Reuben Veeler,Villa,Active,439 Michigan Trail,166272,Rent
+PO167,AG111,Reuben Veeler,Full Floor,Active,9 Esker Terrace,31282,Buy
+PO168,AG111,Reuben Veeler,Appartment,Active,9388 Artisan Junction,141505,Buy
+PO169,AG111,Reuben Veeler,Full Floor,Active,49 Forest Dale Parkway,362272,Rent
+PO170,AG111,Reuben Veeler,Pent House,Inactive,14 Walton Street,50592,Buy
+PO171,AG111,Reuben Veeler,Pent House,Active,19362 Miller Terrace,403954,Buy
+PO172,AG111,Reuben Veeler,Pent House,Active,756 Lakewood Court,370569,Rent
+PO173,AG111,Reuben Veeler,Villa,Active,18280 Fieldstone Court,162559,Buy
+PO174,AG111,Reuben Veeler,Appartment,Inactive,262 Heath Street,202409,Buy
+PO175,AG111,Reuben Veeler,Appartment,Inactive,8099 Pond Junction,409712,Rent
+PO176,AG111,Reuben Veeler,Pent House,Inactive,6 Dixon Circle,9425,Buy
+PO177,AG111,Reuben Veeler,House,Inactive,75316 Hazelcrest Place,3464,Buy
+PO178,AG111,Reuben Veeler,Pent House,Inactive,8 Ronald Regan Junction,376950,Rent
+PO179,AG111,Reuben Veeler,Villa,Active,07 Lakewood Gardens Terrace,375182,Rent
+PO180,AG111,Reuben Veeler,Pent House,Inactive,08924 Hoepker Terrace,279041,Rent
+PO181,AG111,Reuben Veeler,Pent House,Inactive,04686 Jana Parkway,182225,Buy
+PO182,AG111,Reuben Veeler,Full Floor,Inactive,26699 Norway Maple Plaza,406181,Rent
+PO183,AG111,Reuben Veeler,Full Floor,Active,78700 Waywood Hill,205002,Rent
+PO184,AG111,Reuben Veeler,Appartment,Inactive,89 Fremont Junction,94188,Buy
+PO185,AG111,Reuben Veeler,House,Inactive,47964 Mccormick Alley,433598,Rent
+PO186,AG111,Reuben Veeler,Full Floor,Active,92461 Dunning Way,96201,Buy
+PO187,AG111,Reuben Veeler,House,Active,94 Waxwing Point,209170,Rent
+PO188,AG111,Reuben Veeler,House,Inactive,7449 Vernon Place,128262,Rent
+PO189,AG111,Reuben Veeler,Appartment,Inactive,18 Hagan Park,252607,Buy
+PO190,AG111,Reuben Veeler,Appartment,Inactive,6091 Briar Crest Center,141558,Rent
+PO191,AG111,Reuben Veeler,Villa,Active,48503 Lien Hill,499804,Buy
+PO192,AG111,Reuben Veeler,Pent House,Inactive,63 Vidon Crossing,125563,Rent
+PO193,AG111,Reuben Veeler,Appartment,Active,25 Monterey Drive,311455,Buy
+PO194,AG111,Clim Gifford,House,Inactive,80 Cambridge Circle,73150,Rent
+PO195,AG111,Clim Gifford,Pent House,Active,3734 Birchwood Lane,466013,Rent
+PO196,AG111,Clim Gifford,Full Floor,Active,8 Westport Park,30584,Rent
+PO197,AG111,Clim Gifford,Villa,Active,15 Butternut Parkway,297329,Rent
+PO198,AG111,Clim Gifford,Villa,Inactive,296 Merrick Court,294236,Rent
+PO199,AG111,Clim Gifford,House,Inactive,6946 Lake View Alley,40693,Rent
+PO200,AG112,Orsola Weedall,Villa,Active,700 Wayridge Center,176500,Buy
+PO201,AG112,Orsola Weedall,House,Active,641 Havey Point,316206,Buy
+PO202,AG112,Orsola Weedall,House,Inactive,49745 Starling Point,245555,Rent
+PO203,AG112,Orsola Weedall,Pent House,Inactive,49 Anderson Trail,363607,Buy
+PO204,AG112,Orsola Weedall,House,Inactive,453 Lien Drive,426032,Rent
+PO205,AG112,Orsola Weedall,Pent House,Active,6027 Twin Pines Junction,485892,Rent
+PO206,AG112,Orsola Weedall,House,Inactive,890 Fulton Center,363358,Buy
+PO207,AG112,Orsola Weedall,Pent House,Inactive,6933 Hollow Ridge Drive,495825,Buy
+PO208,AG112,Orsola Weedall,Villa,Active,4 Chive Court,394071,Rent
+PO209,AG112,Orsola Weedall,House,Active,6724 Lunder Park,348004,Rent
+PO210,AG112,Orsola Weedall,House,Inactive,6 Carberry Court,416641,Buy
+PO211,AG112,Orsola Weedall,Appartment,Inactive,703 Bay Avenue,37128,Rent
+PO212,AG112,Orsola Weedall,Pent House,Active,4 Division Alley,271680,Rent
+PO213,AG112,Orsola Weedall,Appartment,Active,17915 Michigan Junction,265644,Rent
+PO214,AG112,Orsola Weedall,Pent House,Inactive,9 Johnson Parkway,435144,Buy
+PO215,AG112,Orsola Weedall,Appartment,Active,008 Manitowish Place,298885,Buy
+PO216,AG112,Orsola Weedall,Villa,Active,3 Northview Hill,185749,Rent
+PO217,AG112,Orsola Weedall,Pent House,Inactive,814 Roxbury Junction,338568,Rent
+PO218,AG112,Orsola Weedall,House,Active,68026 Saint Paul Drive,114726,Buy
+PO219,AG112,Orsola Weedall,House,Inactive,38 Pennsylvania Junction,359192,Buy
+PO220,AG112,Orsola Weedall,Full Floor,Inactive,623 David Junction,146869,Buy
+PO221,AG112,Orsola Weedall,Pent House,Active,788 Tony Parkway,335553,Rent
+PO222,AG112,Orsola Weedall,Appartment,Active,5 Huxley Junction,289439,Buy
+PO223,AG112,Orsola Weedall,Appartment,Active,7 Petterle Court,330703,Buy
+PO224,AG112,Orsola Weedall,Appartment,Inactive,52780 Longview Parkway,377585,Rent
+PO225,AG112,Orsola Weedall,Full Floor,Inactive,90 Jackson Road,225918,Rent
+PO226,AG112,Orsola Weedall,Appartment,Inactive,207 Grayhawk Park,192691,Buy
+PO227,AG112,Orsola Weedall,House,Inactive,0 Blaine Pass,278249,Buy
+PO228,AG112,Orsola Weedall,Full Floor,Active,77 Corben Road,290292,Rent
+PO229,AG112,Eugen Stonall,Pent House,Inactive,605 Lien Parkway,115928,Buy
+PO230,AG112,Eugen Stonall,Full Floor,Inactive,59943 Northfield Lane,301699,Buy
+PO231,AG112,Eugen Stonall,Villa,Active,147 Carioca Point,60177,Buy
+PO232,AG112,Eugen Stonall,Appartment,Active,0521 Londonderry Hill,251565,Buy
+PO233,AG112,Eugen Stonall,Villa,Active,562 Menomonie Center,14185,Buy
+PO234,AG112,Eugen Stonall,Pent House,Inactive,712 Victoria Park,126974,Rent
+PO235,AG112,Eugen Stonall,Appartment,Inactive,45 Spenser Street,336470,Rent
+PO236,AG112,Eugen Stonall,Full Floor,Active,1436 Paget Alley,302565,Rent
+PO237,AG112,Eugen Stonall,Villa,Active,2 Sherman Center,310224,Rent
+PO238,AG112,Eugen Stonall,House,Active,019 Michigan Street,142042,Buy
+PO239,AG112,Eugen Stonall,House,Inactive,0541 Mallard Court,186769,Rent
+PO240,AG112,Marleah Fardo,Villa,Active,1 Mayer Trail,377149,Rent
+PO241,AG112,Marleah Fardo,Villa,Inactive,8 Randy Road,388242,Buy
+PO242,AG112,Marleah Fardo,House,Inactive,4 Oxford Hill,255788,Buy
+PO243,AG112,Marleah Fardo,House,Inactive,95779 Buell Place,496118,Rent
+PO244,AG112,Marleah Fardo,Appartment,Active,22903 Sachs Parkway,121863,Rent
+PO245,AG112,Marleah Fardo,Villa,Active,7 Grover Place,464750,Rent
+PO246,AG112,Marleah Fardo,Full Floor,Inactive,273 Pearson Parkway,217553,Buy
+PO247,AG112,Marleah Fardo,House,Active,4668 Londonderry Point,34254,Rent
+PO248,AG112,Marleah Fardo,Villa,Inactive,527 Montana Lane,111240,Rent
+PO249,AG112,Marleah Fardo,Villa,Active,511 Grim Circle,342408,Rent
+PO250,AG112,Marleah Fardo,House,Inactive,889 Loeprich Way,329982,Rent
+PO251,AG112,Marleah Fardo,House,Active,2 Maywood Hill,93028,Rent
+PO252,AG112,Marleah Fardo,Villa,Inactive,511 Grover Circle,222989,Buy
+PO253,AG112,Marleah Fardo,Appartment,Active,71762 Luster Hill,265856,Buy
+PO254,AG112,Marleah Fardo,Pent House,Inactive,8 Ronald Regan Place,21863,Buy
+PO255,AG112,Marleah Fardo,House,Inactive,17158 Moland Trail,267010,Buy
+PO256,AG112,Marleah Fardo,House,Active,16 Towne Hill,51119,Buy
+PO257,AG112,Coleman Hastie,Full Floor,Inactive,79 Dayton Place,176137,Buy
+PO258,AG112,Coleman Hastie,Appartment,Inactive,92864 Summerview Junction,414229,Rent
+PO259,AG112,Coleman Hastie,Appartment,Inactive,98 Nevada Alley,216767,Buy
+PO260,AG112,Coleman Hastie,Villa,Inactive,2 Hallows Center,174300,Rent
+PO261,AG112,Coleman Hastie,Villa,Inactive,11435 Nevada Point,5820,Buy
+PO262,AG112,Coleman Hastie,Appartment,Active,10 Westridge Circle,456636,Rent
+PO263,AG112,Coleman Hastie,Pent House,Active,960 Susan Park,301213,Buy
+PO264,AG112,Coleman Hastie,House,Active,09 Fremont Point,428873,Rent
+PO265,AG112,Coleman Hastie,Pent House,Active,89930 Almo Trail,439694,Rent
+PO266,AG112,Coleman Hastie,Full Floor,Active,35015 Menomonie Plaza,203794,Buy
+PO267,AG112,Coleman Hastie,Appartment,Inactive,0719 Dennis Crossing,136853,Rent
+PO268,AG112,Coleman Hastie,Villa,Active,1476 Anzinger Park,493679,Rent
+PO269,AG112,Coleman Hastie,Full Floor,Active,78 Prentice Street,197088,Rent
+PO270,AG112,Coleman Hastie,House,Active,50 Fair Oaks Court,239815,Buy
+PO271,AG112,Coleman Hastie,Villa,Active,41 Boyd Junction,141604,Buy
+PO272,AG112,Coleman Hastie,Pent House,Active,85779 Cordelia Hill,86372,Buy
+PO273,AG112,Coleman Hastie,Villa,Inactive,65702 Welch Parkway,172161,Buy
+PO274,AG112,Coleman Hastie,Villa,Inactive,84679 Magdeline Plaza,318788,Buy
+PO275,AG112,Coleman Hastie,Villa,Active,834 Mcguire Way,273286,Buy
+PO276,AG112,Coleman Hastie,House,Active,147 Spohn Junction,387562,Buy
+PO277,AG112,Coleman Hastie,House,Inactive,91610 Elka Avenue,202832,Buy
+PO278,AG112,Eloise Renvoys,Appartment,Inactive,268 Towne Lane,75131,Buy
+PO279,AG112,Eloise Renvoys,House,Active,5193 Dwight Terrace,236880,Rent
+PO280,AG112,Eloise Renvoys,Villa,Inactive,8952 Derek Junction,368510,Buy
+PO281,AG112,Eloise Renvoys,Appartment,Active,9 Autumn Leaf Parkway,223313,Rent
+PO282,AG112,Eloise Renvoys,Full Floor,Inactive,83307 Farwell Court,137377,Buy
+PO283,AG112,Eloise Renvoys,House,Active,15 Milwaukee Crossing,274181,Rent
+PO284,AG112,Eloise Renvoys,Pent House,Active,47614 Mendota Hill,288749,Buy
+PO285,AG112,Eloise Renvoys,Appartment,Inactive,97436 Westend Place,172298,Buy
+PO286,AG112,Eloise Renvoys,Full Floor,Active,7783 Macpherson Place,113192,Rent
+PO287,AG112,Eloise Renvoys,Appartment,Inactive,54 Onsgard Junction,66859,Rent
+PO288,AG112,Eloise Renvoys,Villa,Inactive,6 Northwestern Lane,405517,Buy
+PO289,AG112,Eloise Renvoys,Appartment,Inactive,79629 Delladonna Plaza,459814,Rent
+PO290,AG112,Eloise Renvoys,House,Active,093 Maryland Pass,90723,Rent
+PO291,AG112,Eloise Renvoys,Pent House,Inactive,0 Judy Road,111145,Buy
+PO292,AG112,Eloise Renvoys,Villa,Active,4513 Hoepker Court,262796,Rent
+PO293,AG112,Eloise Renvoys,Full Floor,Inactive,18 Texas Parkway,499108,Buy
+PO294,AG112,Eloise Renvoys,Appartment,Active,1 Amoth Junction,364720,Buy
+PO295,AG112,Eloise Renvoys,Full Floor,Inactive,60763 Messerschmidt Trail,439232,Rent
+PO296,AG112,Eloise Renvoys,Villa,Active,156 Meadow Vale Parkway,267330,Buy
+PO297,AG112,Eloise Renvoys,Full Floor,Active,2 Kings Place,178589,Rent
+PO298,AG112,Eloise Renvoys,House,Inactive,931 Rockefeller Trail,312552,Rent
+PO299,AG112,Eloise Renvoys,Appartment,Inactive,4600 International Way,462357,Buy
+PO300,AG113,Lynnea Antognazzi,Appartment,Inactive,5779 Carpenter Street,68188,Buy
+PO301,AG113,Lynnea Antognazzi,Full Floor,Active,56 Namekagon Pass,34876,Rent
+PO302,AG113,Lynnea Antognazzi,Pent House,Active,9978 Eliot Junction,274245,Buy
+PO303,AG113,Lynnea Antognazzi,Villa,Active,5 Sachs Junction,103783,Rent
+PO304,AG113,Lynnea Antognazzi,Pent House,Active,627 Farragut Road,318580,Rent
+PO305,AG113,Lynnea Antognazzi,Appartment,Active,914 Village Green Plaza,494888,Buy
+PO306,AG113,Lynnea Antognazzi,Pent House,Active,8673 Meadow Vale Lane,248196,Buy
+PO307,AG113,Lynnea Antognazzi,House,Inactive,87 Parkside Drive,142027,Rent
+PO308,AG113,Lynnea Antognazzi,Pent House,Inactive,409 Pearson Junction,310203,Buy
+PO309,AG113,Lynnea Antognazzi,Pent House,Active,37 Havey Pass,120765,Rent
+PO310,AG113,Lynnea Antognazzi,Full Floor,Active,58 Spenser Trail,100783,Rent
+PO311,AG113,Lynnea Antognazzi,House,Active,920 Bultman Street,358658,Rent
+PO312,AG113,Lynnea Antognazzi,House,Active,80308 Westend Pass,53515,Rent
+PO313,AG113,Lynnea Antognazzi,Full Floor,Inactive,4 Dryden Lane,395418,Rent
+PO314,AG113,Lynnea Antognazzi,Villa,Active,28 Shelley Way,61186,Buy
+PO315,AG113,Lynnea Antognazzi,Villa,Inactive,0200 Northwestern Center,431985,Buy
+PO316,AG113,Lynnea Antognazzi,Full Floor,Inactive,13 Judy Plaza,273045,Rent
+PO317,AG113,Lynnea Antognazzi,Villa,Inactive,7 Blaine Terrace,284953,Buy
+PO318,AG113,Lynnea Antognazzi,Villa,Active,93 Jay Court,269689,Buy
+PO319,AG113,Lynnea Antognazzi,Villa,Inactive,3 Nevada Center,437908,Rent
+PO320,AG113,Lucien Clementi,Full Floor,Active,0 Blackbird Alley,119378,Rent
+PO321,AG113,Lucien Clementi,Appartment,Inactive,018 Bluestem Plaza,347616,Buy
+PO322,AG113,Lucien Clementi,Appartment,Active,86 1st Pass,66318,Rent
+PO323,AG113,Lucien Clementi,Appartment,Active,27765 Doe Crossing Avenue,314894,Buy
+PO324,AG113,Lucien Clementi,Appartment,Inactive,0381 Utah Parkway,94265,Buy
+PO325,AG113,Lucien Clementi,Appartment,Active,4 Westend Place,210244,Rent
+PO326,AG113,Lucien Clementi,Villa,Active,62120 Bellgrove Circle,462773,Rent
+PO327,AG113,Lucien Clementi,House,Inactive,6 Warbler Circle,427015,Rent
+PO328,AG113,Lucien Clementi,Villa,Inactive,6506 Badeau Junction,124193,Buy
+PO329,AG113,Lucien Clementi,Pent House,Active,150 Milwaukee Lane,217793,Rent
+PO330,AG113,Lucien Clementi,Full Floor,Inactive,8257 Springs Road,304173,Buy
+PO331,AG113,Lucien Clementi,Villa,Active,418 Declaration Circle,241114,Rent
+PO332,AG113,Lucien Clementi,Villa,Inactive,08 Ludington Park,228245,Rent
+PO333,AG113,Ad Figgures,Villa,Inactive,62 Moulton Point,395509,Rent
+PO334,AG113,Ad Figgures,Full Floor,Inactive,21 Merrick Court,324268,Buy
+PO335,AG113,Ad Figgures,Pent House,Active,6 Steensland Terrace,364883,Rent
+PO336,AG113,Ad Figgures,Appartment,Active,2 Hallows Crossing,51120,Buy
+PO337,AG113,Ad Figgures,Pent House,Active,21 Shelley Drive,319048,Buy
+PO338,AG113,Ad Figgures,Appartment,Inactive,58 Michigan Crossing,484802,Buy
+PO339,AG113,Ad Figgures,House,Inactive,60966 Sloan Point,459417,Rent
+PO340,AG113,Ad Figgures,Appartment,Inactive,902 Rigney Park,70320,Rent
+PO341,AG113,Ad Figgures,House,Active,14 5th Center,401405,Rent
+PO342,AG113,Licha Strickler,Appartment,Inactive,465 Hansons Terrace,365134,Rent
+PO343,AG113,Licha Strickler,Villa,Inactive,7659 Forest Lane,172158,Rent
+PO344,AG113,Licha Strickler,Pent House,Inactive,11382 Rowland Pass,196241,Rent
+PO345,AG113,Licha Strickler,Pent House,Active,19525 Prairieview Hill,291584,Buy
+PO346,AG113,Licha Strickler,Full Floor,Inactive,394 Troy Point,369369,Rent
+PO347,AG113,Licha Strickler,Villa,Inactive,8296 Jenna Avenue,360078,Buy
+PO348,AG113,Licha Strickler,Villa,Inactive,60 Starling Park,434411,Buy
+PO349,AG113,Licha Strickler,Appartment,Inactive,09299 Annamark Hill,268969,Buy
+PO350,AG113,Viv Gollop,House,Active,97161 Talisman Trail,449628,Rent
+PO351,AG113,Viv Gollop,House,Inactive,9947 Heffernan Avenue,497047,Buy
+PO352,AG113,Viv Gollop,Villa,Inactive,3 Brentwood Junction,369590,Buy
+PO353,AG113,Viv Gollop,Full Floor,Active,626 Dwight Way,170456,Rent
+PO354,AG113,Viv Gollop,Pent House,Inactive,6962 Pleasure Center,250589,Rent
+PO355,AG113,Viv Gollop,Pent House,Active,429 Eagan Crossing,64899,Rent
+PO356,AG113,Viv Gollop,Pent House,Active,84186 Express Alley,473425,Rent
+PO357,AG113,Viv Gollop,Pent House,Inactive,6 Lighthouse Bay Terrace,392059,Buy
+PO358,AG113,Viv Gollop,Appartment,Inactive,092 Johnson Park,280355,Rent
+PO359,AG113,Viv Gollop,Full Floor,Inactive,931 Pearson Way,154715,Rent
+PO360,AG113,Viv Gollop,Villa,Inactive,2 Melrose Parkway,99193,Buy
+PO361,AG113,Viv Gollop,Villa,Inactive,84530 Forest Dale Center,471926,Buy
+PO362,AG113,Viv Gollop,Pent House,Active,85695 Heath Circle,490388,Buy
+PO363,AG113,Viv Gollop,Villa,Inactive,96 Loomis Center,47481,Buy
+PO364,AG113,Viv Gollop,House,Inactive,42325 Clemons Crossing,252170,Buy
+PO365,AG113,Rick McGready,Full Floor,Inactive,93 Tony Place,445485,Buy
+PO366,AG113,Rick McGready,House,Inactive,6 Hudson Pass,398349,Buy
+PO367,AG113,Rick McGready,Villa,Active,042 Cardinal Road,163863,Buy
+PO368,AG113,Rick McGready,House,Inactive,87525 Homewood Crossing,444058,Buy
+PO369,AG113,Rick McGready,Pent House,Inactive,7494 Melrose Drive,26493,Buy
+PO370,AG113,Rick McGready,Appartment,Active,63180 Almo Way,111747,Rent
+PO371,AG113,Rick McGready,Appartment,Active,2 Arizona Lane,309798,Rent
+PO372,AG113,Rick McGready,Appartment,Active,3585 Elka Crossing,72181,Buy
+PO373,AG113,Rick McGready,Villa,Active,1520 Scofield Junction,110327,Buy
+PO374,AG113,Rick McGready,House,Inactive,64 3rd Center,97563,Buy
+PO375,AG113,Rick McGready,Full Floor,Inactive,0 Bartillon Avenue,92060,Buy
+PO376,AG113,Rick McGready,Full Floor,Active,19156 Lighthouse Bay Trail,26162,Buy
+PO377,AG113,Rick McGready,Appartment,Active,0230 Lawn Place,175856,Rent
+PO378,AG113,Rick McGready,Villa,Active,17323 Larry Terrace,328492,Rent
+PO379,AG113,Rick McGready,Full Floor,Active,2 Gina Drive,75841,Buy
+PO380,AG113,Rick McGready,House,Inactive,1876 Valley Edge Court,104671,Rent
+PO381,AG113,Rick McGready,Pent House,Active,1482 Anhalt Parkway,460357,Rent
+PO382,AG113,Linn Queyos,House,Inactive,57 Mallory Drive,65173,Buy
+PO383,AG113,Linn Queyos,Appartment,Inactive,34 Algoma Trail,100319,Rent
+PO384,AG113,Linn Queyos,Full Floor,Inactive,6383 Anderson Park,328582,Buy
+PO385,AG113,Linn Queyos,Villa,Active,7 Mosinee Terrace,466160,Rent
+PO386,AG113,Linn Queyos,Pent House,Inactive,4414 Bunting Center,26040,Rent
+PO387,AG113,Linn Queyos,Full Floor,Inactive,795 Hoffman Point,113034,Buy
+PO388,AG113,Linn Queyos,Pent House,Active,219 Burning Wood Pass,446222,Rent
+PO389,AG114,Linn Queyos,Appartment,Inactive,3452 Hanover Park,418585,Rent
+PO390,AG114,Linn Queyos,Pent House,Active,018 Arkansas Point,100015,Rent
+PO391,AG114,Linn Queyos,Villa,Inactive,5355 Forest Dale Road,437144,Buy
+PO392,AG114,Linn Queyos,Appartment,Active,668 Truax Park,434242,Rent
+PO393,AG114,Linn Queyos,Full Floor,Inactive,4645 Prairieview Street,328807,Buy
+PO394,AG114,Linn Queyos,Pent House,Active,0268 Doe Crossing Drive,86306,Buy
+PO395,AG114,Linn Queyos,Pent House,Active,33766 Sachs Terrace,190200,Rent
+PO396,AG114,Linn Queyos,Appartment,Active,13 Sloan Pass,421111,Buy
+PO397,AG114,Linn Queyos,Villa,Inactive,48 Judy Park,158601,Rent
+PO398,AG114,Linn Queyos,Villa,Active,109 Lerdahl Road,161020,Rent
+PO399,AG114,Linn Queyos,Pent House,Inactive,83 Oak Trail,57578,Buy
+PO400,AG114,Linn Queyos,Villa,Inactive,894 Golden Leaf Alley,286887,Rent
+PO401,AG114,Sherie Louys,Appartment,Inactive,75 Stuart Parkway,398257,Rent
+PO402,AG114,Sherie Louys,House,Active,85 Columbus Crossing,467217,Rent
+PO403,AG114,Sherie Louys,Appartment,Active,740 Randy Junction,17565,Rent
+PO404,AG114,Sherie Louys,Appartment,Inactive,3 Nova Court,478737,Buy
+PO405,AG114,Sherie Louys,Pent House,Active,65499 Grover Plaza,225082,Buy
+PO406,AG114,Sherie Louys,Full Floor,Inactive,1615 Schurz Plaza,286194,Rent
+PO407,AG114,Sherie Louys,Appartment,Inactive,65 Springs Plaza,41373,Buy
+PO408,AG114,Sherie Louys,Pent House,Active,51 Holy Cross Place,115652,Buy
+PO409,AG114,Sherie Louys,Appartment,Inactive,9941 Memorial Parkway,340840,Rent
+PO410,AG114,Sherie Louys,Appartment,Inactive,59535 Marcy Park,198258,Buy
+PO411,AG114,Sherie Louys,Villa,Active,367 Banding Court,405079,Rent
+PO412,AG114,Sherie Louys,House,Active,17 Green Ridge Center,83965,Rent
+PO413,AG114,Sherie Louys,Pent House,Inactive,3299 Bunting Hill,262507,Buy
+PO414,AG114,Sherie Louys,Full Floor,Active,15 Chinook Avenue,216296,Buy
+PO415,AG114,Sherie Louys,Pent House,Inactive,0 Shasta Center,91142,Buy
+PO416,AG114,Tootsie Winterscale,Pent House,Active,0923 Waubesa Junction,277422,Rent
+PO417,AG114,Tootsie Winterscale,Appartment,Inactive,8 Londonderry Crossing,364514,Rent
+PO418,AG114,Tootsie Winterscale,Pent House,Inactive,68 Mifflin Trail,249295,Buy
+PO419,AG114,Tootsie Winterscale,Villa,Inactive,32 Reindahl Crossing,225655,Rent
+PO420,AG114,Tootsie Winterscale,Full Floor,Active,6440 Stoughton Pass,178809,Buy
+PO421,AG114,Tootsie Winterscale,House,Active,159 Everett Junction,353162,Rent
+PO422,AG114,Tootsie Winterscale,Full Floor,Active,9 Blaine Parkway,486224,Rent
+PO423,AG114,Tootsie Winterscale,Full Floor,Inactive,801 Calypso Avenue,53064,Buy
+PO424,AG114,Tootsie Winterscale,Full Floor,Active,4 Heath Lane,83604,Rent
+PO425,AG114,Tootsie Winterscale,Full Floor,Inactive,7 Spaight Way,167285,Rent
+PO426,AG114,Tootsie Winterscale,Appartment,Inactive,49 Rutledge Street,59562,Rent
+PO427,AG114,Tootsie Winterscale,House,Inactive,91 Lakeland Crossing,5053,Rent
+PO428,AG114,Tootsie Winterscale,Full Floor,Inactive,64334 Moose Junction,168347,Buy
+PO429,AG114,Tootsie Winterscale,Pent House,Inactive,275 Waywood Circle,118730,Buy
+PO430,AG114,Tootsie Winterscale,House,Active,9 Farmco Center,470982,Buy
+PO431,AG114,Collin Fillon,House,Active,98 Rigney Street,455076,Buy
+PO432,AG114,Collin Fillon,Pent House,Active,028 Briar Crest Way,100079,Rent
+PO433,AG114,Collin Fillon,House,Inactive,64249 Commercial Street,347176,Rent
+PO434,AG114,Collin Fillon,House,Inactive,60253 Carpenter Point,201341,Buy
+PO435,AG114,Collin Fillon,Pent House,Active,58 Westend Park,150948,Rent
+PO436,AG114,Collin Fillon,Appartment,Active,1 Park Meadow Trail,38463,Buy
+PO437,AG114,Collin Fillon,Villa,Active,36205 Nova Parkway,106269,Rent
+PO438,AG114,Collin Fillon,Full Floor,Active,494 Talisman Junction,486963,Buy
+PO439,AG114,Collin Fillon,House,Inactive,9857 Burning Wood Drive,161022,Rent
+PO440,AG114,Collin Fillon,Full Floor,Inactive,095 Luster Trail,202589,Rent
+PO441,AG114,Collin Fillon,Appartment,Active,9779 Meadow Vale Hill,169954,Buy
+PO442,AG114,Eddie Foxhall,Appartment,Active,14873 Raven Center,84183,Rent
+PO443,AG114,Leonore Bucke,Appartment,Inactive,673 Birchwood Hill,413677,Rent
+PO444,AG114,Leonore Bucke,Villa,Active,6 Wayridge Place,354971,Buy
+PO445,AG114,Leonore Bucke,Pent House,Inactive,983 Onsgard Street,391012,Buy
+PO446,AG114,Leonore Bucke,House,Active,4069 Lillian Crossing,24272,Buy
+PO447,AG114,Leonore Bucke,Full Floor,Active,1002 Jenna Crossing,108467,Rent
+PO448,AG114,Leonore Bucke,Villa,Active,321 Farragut Crossing,392449,Rent
+PO449,AG114,Leonore Bucke,Full Floor,Inactive,0950 Eggendart Park,262395,Buy
+PO450,AG114,Leonore Bucke,Appartment,Active,57979 Bluestem Parkway,12978,Rent
+PO451,AG114,Leonore Bucke,House,Inactive,2 Mandrake Circle,411348,Buy
+PO452,AG114,Rhetta Burfitt,Full Floor,Active,47 Rusk Lane,450577,Buy
+PO453,AG114,Tracie Bausor,Villa,Inactive,730 Jenna Crossing,440923,Buy
+PO454,AG114,Lief Mitchelhill,Full Floor,Inactive,8 Mendota Lane,337359,Buy
+PO455,AG114,Lief Mitchelhill,Appartment,Active,14 Emmet Hill,34707,Rent
+PO456,AG114,Lief Mitchelhill,Villa,Active,5112 Tennessee Junction,240649,Buy
+PO457,AG114,Lief Mitchelhill,Villa,Inactive,3 Dexter Parkway,289853,Buy
+PO458,AG114,Lief Mitchelhill,Pent House,Active,906 Myrtle Court,181790,Rent
+PO459,AG114,Lief Mitchelhill,Villa,Active,68 Vahlen Trail,459463,Rent
+PO460,AG114,Lief Mitchelhill,Villa,Active,86 Charing Cross Court,226223,Rent
+PO461,AG114,Lief Mitchelhill,Full Floor,Inactive,61 Garrison Pass,227745,Rent
+PO462,AG114,Lief Mitchelhill,Villa,Active,784 Bartelt Plaza,195023,Rent
+PO463,AG114,Frances Albrook,Appartment,Inactive,0754 Arapahoe Lane,76397,Buy
+PO464,AG114,Lebbie Warwick,Appartment,Inactive,0445 Monica Hill,73805,Buy
+PO465,AG114,Lebbie Warwick,Pent House,Active,92799 Comanche Plaza,310522,Rent
+PO466,AG114,Edmon Crabbe,Villa,Active,288 Anhalt Park,220124,Buy
+PO467,AG114,Ula Mordin,Full Floor,Inactive,656 Acker Terrace,475375,Rent
+PO468,AG114,Murry Byfford,Pent House,Inactive,5 Warner Center,386183,Rent
+PO469,AG114,Konrad Kubiczek,House,Inactive,7416 Menomonie Road,382963,Rent
+PO470,AG114,Luther Murney,House,Inactive,7 7th Way,166601,Rent
+PO471,AG114,Valencia McBride,Pent House,Active,14 Bonner Pass,200714,Rent
+PO472,AG114,Valencia McBride,Full Floor,Inactive,45062 David Drive,14257,Rent
+PO473,AG114,Valencia McBride,House,Inactive,33349 Holy Cross Terrace,289311,Buy
+PO474,AG114,Valencia McBride,Full Floor,Active,71 Porter Hill,197973,Buy
+PO475,AG114,Valencia McBride,Pent House,Inactive,99988 Gale Plaza,361846,Rent
+PO476,AG114,Valencia McBride,Villa,Inactive,16097 Sachs Point,314181,Rent
+PO477,AG114,Valencia McBride,House,Inactive,68 Lyons Place,20782,Rent
+PO478,AG114,Valencia McBride,Villa,Inactive,9285 Victoria Hill,417655,Rent
+PO479,AG114,Valencia McBride,Appartment,Active,2 Troy Hill,497454,Buy
+PO480,AG114,Valencia McBride,Full Floor,Inactive,8781 Canary Road,335190,Rent
+PO481,AG114,Valencia McBride,Appartment,Active,4 Oneill Way,261314,Buy
+PO482,AG114,Roselin Sibbit,Pent House,Inactive,9 Mcguire Alley,276059,Rent
+PO483,AG114,Roselin Sibbit,Appartment,Active,101 Westridge Terrace,264727,Buy
+PO484,AG114,Roselin Sibbit,Full Floor,Active,70315 Summit Alley,253899,Rent
+PO485,AG114,Roselin Sibbit,Pent House,Active,6342 Mariners Cove Drive,315578,Buy
+PO486,AG114,Roselin Sibbit,Villa,Active,2 Holmberg Alley,246123,Rent
+PO487,AG114,Roselin Sibbit,Pent House,Inactive,8 Moland Trail,463750,Rent
+PO488,AG114,Roselin Sibbit,Full Floor,Active,9 Shoshone Trail,32909,Rent
+PO489,AG114,Roselin Sibbit,Villa,Inactive,7 Harper Road,332355,Rent
+PO490,AG114,Roselin Sibbit,House,Active,4 Dixon Hill,44575,Buy
+PO491,AG114,Roselin Sibbit,Appartment,Active,64 Hermina Point,459468,Rent
+PO492,AG114,Roselin Sibbit,House,Active,16297 Mallard Plaza,294023,Buy
+PO493,AG114,Roselin Sibbit,Appartment,Inactive,81013 Mesta Parkway,8180,Buy
+PO494,AG114,Roselin Sibbit,Pent House,Inactive,43743 Forest Dale Drive,29868,Rent
+PO495,AG114,Roselin Sibbit,House,Active,70266 Bay Park,110023,Buy
+PO496,AG114,Roselin Sibbit,Villa,Active,66734 Homewood Road,207119,Rent
+PO497,AG114,Roselin Sibbit,House,Inactive,236 Golf Terrace,390255,Buy
+PO498,AG114,Roselin Sibbit,House,Active,3 Northview Center,46866,Rent
+PO499,AG114,Roselin Sibbit,Appartment,Inactive,62158 Bluestem Place,192942,Rent
+PO500,AG114,Roselin Sibbit,Appartment,Inactive,7116 Brentwood Terrace,472188,Buy
+PO501,AG114,Roselin Sibbit,Villa,Active,893 Oakridge Avenue,100018,Rent
+PO502,AG114,Roselin Sibbit,Pent House,Inactive,0 Ramsey Circle,150062,Buy
+PO503,AG114,Roselin Sibbit,Pent House,Active,2948 Anthes Alley,34032,Buy
+PO504,AG114,Roselin Sibbit,Villa,Inactive,6 Nobel Circle,285798,Rent
+PO505,AG114,Roselin Sibbit,Appartment,Active,4 Comanche Way,389455,Buy
+PO506,AG114,Roselin Sibbit,Full Floor,Inactive,9 Forster Pass,190595,Buy
+PO507,AG114,Roselin Sibbit,House,Inactive,45 Lien Pass,108847,Buy
+PO508,AG114,Roselin Sibbit,Appartment,Active,7 Northview Street,213188,Rent
+PO509,AG114,Roselin Sibbit,Full Floor,Inactive,05 Everett Circle,171202,Buy
+PO510,AG114,Roselin Sibbit,Pent House,Active,5530 Claremont Center,341171,Buy
+PO511,AG114,Roselin Sibbit,Villa,Active,1270 Bellgrove Way,442859,Rent
+PO512,AG114,Roselin Sibbit,Villa,Active,98 Sugar Way,402825,Rent
+PO513,AG114,Roselin Sibbit,Pent House,Active,5623 Steensland Pass,10400,Buy
+PO514,AG114,Roselin Sibbit,Villa,Active,7 Kennedy Center,93239,Rent
+PO515,AG114,Roselin Sibbit,Pent House,Inactive,3 Lakewood Hill,291884,Rent
+PO516,AG114,Roselin Sibbit,Appartment,Inactive,6 Merry Park,90966,Rent
+PO517,AG114,Roselin Sibbit,Full Floor,Inactive,82889 Donald Crossing,228528,Rent
+PO518,AG114,Roselin Sibbit,Full Floor,Inactive,84 Leroy Circle,15895,Rent
+PO519,AG114,Roselin Sibbit,Pent House,Active,97 Scott Pass,310552,Rent
+PO520,AG114,Roselin Sibbit,Villa,Inactive,8652 David Park,236469,Buy
+PO521,AG114,Roselin Sibbit,Pent House,Active,462 Rigney Plaza,45469,Rent
+PO522,AG114,Roselin Sibbit,Pent House,Active,3027 Rusk Place,71891,Buy
+PO523,AG114,Roselin Sibbit,Full Floor,Active,92994 Dakota Hill,128741,Buy
+PO524,AG114,Roselin Sibbit,Appartment,Active,77215 Ridgeview Hill,470512,Rent
+PO525,AG114,Roselin Sibbit,Villa,Active,1 Division Trail,190137,Buy
+PO526,AG114,Roselin Sibbit,House,Active,96574 La Follette Trail,181070,Buy
+PO527,AG114,Roselin Sibbit,House,Inactive,024 Brickson Park Hill,433067,Buy
+PO528,AG114,Roselin Sibbit,Full Floor,Active,4 Hazelcrest Court,306510,Rent
+PO529,AG114,Roselin Sibbit,Villa,Active,92 Mallory Road,128724,Buy
+PO530,AG114,Roselin Sibbit,House,Active,96 Loomis Lane,139161,Buy
+PO531,AG114,Roselin Sibbit,House,Inactive,80079 Kedzie Junction,12944,Rent
+PO532,AG114,Roselin Sibbit,Villa,Active,0771 Maple Place,412213,Buy
+PO533,AG114,Roselin Sibbit,Full Floor,Inactive,33 Emmet Pass,48445,Rent
+PO534,AG114,Roselin Sibbit,Villa,Active,3 Kings Court,351756,Rent
+PO535,AG114,Roselin Sibbit,Villa,Inactive,8698 Dapin Court,225714,Rent
+PO536,AG114,Roselin Sibbit,House,Inactive,959 Straubel Pass,499658,Buy
+PO537,AG114,Roselin Sibbit,Villa,Active,037 Elka Parkway,84749,Buy
+PO538,AG114,Roselin Sibbit,Villa,Active,36 Valley Edge Plaza,408488,Buy
+PO539,AG114,Roselin Sibbit,Appartment,Inactive,7268 Jackson Court,358576,Rent
+PO540,AG114,Roselin Sibbit,Pent House,Active,1168 Thackeray Alley,205774,Rent
+PO541,AG114,Roselin Sibbit,Appartment,Inactive,0 Grayhawk Trail,159383,Buy
+PO542,AG114,Roselin Sibbit,Pent House,Active,86522 Kennedy Trail,478489,Buy
+PO543,AG114,Roselin Sibbit,Pent House,Active,974 Vidon Park,376690,Rent
+PO544,AG114,Roselin Sibbit,Appartment,Active,28348 Tomscot Junction,276972,Rent
+PO545,AG114,Roselin Sibbit,Appartment,Inactive,9745 New Castle Center,397652,Rent
+PO546,AG114,Roselin Sibbit,House,Inactive,11676 Bartelt Trail,437181,Rent
+PO547,AG114,Roselin Sibbit,Villa,Active,58 Clemons Parkway,69664,Rent
+PO548,AG114,Roselin Sibbit,Appartment,Active,0 Derek Road,105166,Buy
+PO549,AG114,Roselin Sibbit,Appartment,Active,9539 Crest Line Street,302909,Buy
+PO550,AG114,Roselin Sibbit,Appartment,Active,383 Johnson Center,387892,Rent
+PO551,AG114,Roselin Sibbit,Full Floor,Inactive,274 Orin Street,18469,Rent
+PO552,AG114,Roselin Sibbit,Full Floor,Inactive,78 Montana Junction,408698,Buy
+PO553,AG114,Roselin Sibbit,Pent House,Active,90907 Crowley Park,42470,Rent
+PO554,AG114,Roselin Sibbit,Appartment,Active,0760 Nelson Parkway,100589,Buy
+PO555,AG114,Roselin Sibbit,Villa,Active,4511 Oak Valley Alley,344555,Rent
+PO556,AG114,Roselin Sibbit,Full Floor,Inactive,0749 Vidon Terrace,16044,Buy
+PO557,AG114,Roselin Sibbit,Pent House,Inactive,03057 Fairfield Court,42488,Buy
+PO558,AG114,Roselin Sibbit,Pent House,Inactive,1 Fallview Avenue,326235,Buy
+PO559,AG114,Roselin Sibbit,Appartment,Inactive,61 Prairie Rose Center,152150,Buy
+PO560,AG114,Roselin Sibbit,House,Inactive,153 Elmside Parkway,127212,Rent
+PO561,AG114,Roselin Sibbit,Appartment,Active,616 Corry Pass,319332,Rent
+PO562,AG114,Roselin Sibbit,Pent House,Active,82 5th Street,68507,Rent
+PO563,AG114,Roselin Sibbit,Villa,Active,79306 Myrtle Alley,222673,Rent
+PO564,AG114,Roselin Sibbit,Villa,Active,6 Lighthouse Bay Lane,163338,Buy
+PO565,AG114,Roselin Sibbit,Villa,Inactive,12452 Starling Court,259678,Rent
+PO566,AG114,Roselin Sibbit,Villa,Active,67668 Mesta Parkway,77397,Buy
+PO567,AG114,Roselin Sibbit,Appartment,Active,69214 Redwing Junction,493493,Rent
+PO568,AG114,Suzie Fruen,Pent House,Active,83085 Nelson Avenue,421913,Rent
+PO569,AG114,Suzie Fruen,Appartment,Active,59385 Killdeer Terrace,296189,Buy
+PO570,AG114,Suzie Fruen,House,Inactive,0485 Monica Circle,483812,Rent
+PO571,AG114,Suzie Fruen,Appartment,Inactive,02846 Continental Center,73053,Rent
+PO572,AG114,Suzie Fruen,Full Floor,Active,0 Blackbird Junction,261321,Buy
+PO573,AG114,Suzie Fruen,Pent House,Active,524 Jenifer Park,311906,Buy
+PO574,AG114,Suzie Fruen,Pent House,Active,486 Farragut Alley,194623,Buy
+PO575,AG114,Suzie Fruen,Villa,Inactive,928 Briar Crest Plaza,173505,Rent
+PO576,AG114,Suzie Fruen,House,Inactive,840 Rockefeller Circle,338787,Buy
+PO577,AG114,Suzie Fruen,Full Floor,Active,90 Lakewood Gardens Drive,70167,Buy
+PO578,AG114,Suzie Fruen,Pent House,Active,94731 Delaware Circle,296934,Buy
+PO579,AG114,Suzie Fruen,Full Floor,Inactive,8 Elka Terrace,358035,Rent
+PO580,AG114,Suzie Fruen,Pent House,Active,1 Maryland Junction,229313,Rent
+PO581,AG114,Suzie Fruen,Full Floor,Inactive,69958 Duke Drive,293197,Rent
+PO582,AG114,Suzie Fruen,Villa,Active,7686 Annamark Center,395846,Buy
+PO583,AG114,Hartley Drewet,House,Active,098 Sommers Drive,428824,Buy
+PO584,AG114,Hartley Drewet,Full Floor,Active,3439 Fairview Road,345305,Buy
+PO585,AG114,Hartley Drewet,House,Active,4 Sunfield Way,282428,Buy
+PO586,AG114,Hartley Drewet,House,Inactive,1644 Grover Hill,53666,Buy
+PO587,AG114,Hartley Drewet,Pent House,Inactive,58 Hintze Lane,268211,Rent
+PO588,AG114,Hartley Drewet,Appartment,Inactive,37974 Arrowood Trail,487601,Buy
+PO589,AG114,Hartley Drewet,House,Inactive,132 Oak Pass,236336,Buy
+PO590,AG114,Hartley Drewet,House,Inactive,3 Oxford Alley,358825,Buy
+PO591,AG114,Hartley Drewet,Full Floor,Active,807 Lyons Drive,87134,Buy
+PO592,AG114,Hartley Drewet,Full Floor,Active,9 Bluejay Alley,332703,Rent
+PO593,AG114,Hartley Drewet,Appartment,Active,140 Lerdahl Point,336665,Rent
+PO594,AG114,Hartley Drewet,House,Active,9769 Fisk Place,283984,Rent
+PO595,AG114,Hartley Drewet,Pent House,Active,9 Kingsford Lane,106213,Buy
+PO596,AG114,Hartley Drewet,Appartment,Active,81878 Lotheville Center,58186,Buy
+PO597,AG114,Hartley Drewet,Full Floor,Inactive,50 Texas Lane,113110,Buy
+PO598,AG114,Hartley Drewet,Appartment,Inactive,5 Stoughton Lane,302269,Rent
+PO599,AG114,Hartley Drewet,Full Floor,Active,39 Miller Court,427807,Rent
+PO600,AG114,Hartley Drewet,Full Floor,Active,88 Prentice Trail,82680,Buy
+PO601,AG114,Hartley Drewet,House,Inactive,500 Northland Park,223163,Buy
+PO602,AG114,Hartley Drewet,Appartment,Inactive,4295 Sutherland Parkway,210907,Buy
+PO603,AG114,Hartley Drewet,Appartment,Active,850 Karstens Hill,70528,Buy
+PO604,AG114,Hartley Drewet,Villa,Inactive,2448 Center Avenue,91107,Rent
+PO605,AG114,Hartley Drewet,Appartment,Inactive,9837 Lindbergh Park,481303,Rent
+PO606,AG114,Hartley Drewet,Villa,Inactive,5 Hoffman Court,205250,Buy
+PO607,AG114,Hartley Drewet,Villa,Inactive,99 Lunder Point,82048,Buy
+PO608,AG114,Hartley Drewet,Pent House,Inactive,97 Hollow Ridge Lane,82314,Rent
+PO609,AG114,Hartley Drewet,Appartment,Inactive,1 Anthes Street,102656,Rent
+PO610,AG114,Hartley Drewet,House,Inactive,7722 Anzinger Way,292743,Rent
+PO611,AG114,Hartley Drewet,Appartment,Inactive,15 Eagan Trail,225709,Buy
+PO612,AG114,Hartley Drewet,House,Active,598 Bashford Hill,354699,Buy
+PO613,AG114,Hartley Drewet,Full Floor,Active,7534 Kensington Hill,389237,Buy
+PO614,AG114,Hartley Drewet,House,Active,2 Clarendon Pass,423869,Rent
+PO615,AG114,Hartley Drewet,Villa,Active,7080 Stang Lane,457401,Buy
+PO616,AG114,Hartley Drewet,Villa,Inactive,91 Maryland Court,444155,Rent
+PO617,AG114,Hartley Drewet,Full Floor,Active,70116 Vahlen Park,485977,Rent
+PO618,AG114,Hartley Drewet,Full Floor,Active,88 Oak Valley Circle,227906,Buy
+PO619,AG114,Hartley Drewet,House,Active,924 Sommers Alley,468139,Rent
+PO620,AG114,Hartley Drewet,Pent House,Inactive,034 David Way,413257,Buy
+PO621,AG114,Hartley Drewet,Villa,Active,70 Mockingbird Place,94380,Rent
+PO622,AG114,Hartley Drewet,House,Active,49 Bluestem Junction,120427,Buy
+PO623,AG114,Hartley Drewet,Pent House,Active,023 Veith Lane,187554,Buy
+PO624,AG114,Hartley Drewet,Appartment,Inactive,6878 Beilfuss Hill,166602,Buy
+PO625,AG114,Hartley Drewet,Appartment,Active,337 Esker Alley,320451,Buy
+PO626,AG114,Hartley Drewet,Full Floor,Active,7 Loftsgordon Way,249165,Buy
+PO627,AG115,Cortie Rummins,Appartment,Active,6 Anderson Parkway,182042,Rent
+PO628,AG115,Cortie Rummins,Pent House,Active,5709 Heffernan Crossing,494741,Buy
+PO629,AG115,Cortie Rummins,Villa,Active,00 Sugar Junction,15923,Buy
+PO630,AG115,Cortie Rummins,House,Active,4385 Buhler Street,2372,Buy
+PO631,AG115,Cortie Rummins,Pent House,Active,855 Anhalt Junction,490701,Buy
+PO632,AG115,Cortie Rummins,House,Active,08415 Judy Lane,290730,Buy
+PO633,AG115,Cortie Rummins,Full Floor,Active,0 Stuart Crossing,415,Rent
+PO634,AG115,Cortie Rummins,Full Floor,Active,4 Anniversary Street,179827,Rent
+PO635,AG115,Cortie Rummins,Pent House,Inactive,5 Lillian Center,400198,Buy
+PO636,AG115,Cortie Rummins,Pent House,Inactive,69267 Garrison Crossing,164230,Buy
+PO637,AG115,Cortie Rummins,Full Floor,Active,65813 Elmside Road,143098,Rent
+PO638,AG115,Cortie Rummins,Full Floor,Inactive,737 Union Circle,120958,Rent
+PO639,AG115,Cortie Rummins,Full Floor,Inactive,8663 International Trail,72700,Rent
+PO640,AG115,Cortie Rummins,Villa,Inactive,675 Jana Way,135118,Buy
+PO641,AG115,Cortie Rummins,Pent House,Inactive,368 Towne Alley,298698,Buy
+PO642,AG115,Cortie Rummins,Villa,Inactive,675 Superior Alley,264010,Buy
+PO643,AG115,Cortie Rummins,Villa,Active,0845 Sachs Trail,103737,Rent
+PO644,AG115,Cortie Rummins,House,Inactive,9 Bluejay Hill,95051,Rent
+PO645,AG115,Cortie Rummins,Full Floor,Inactive,9 Raven Avenue,129622,Buy
+PO646,AG115,Cortie Rummins,Full Floor,Active,806 Reinke Pass,245065,Rent
+PO647,AG115,Jackie Leyre,House,Inactive,043 International Lane,288144,Rent
+PO648,AG115,Jackie Leyre,Full Floor,Inactive,3683 Grim Center,293845,Rent
+PO649,AG115,Jackie Leyre,Full Floor,Active,13 International Trail,344764,Rent
+PO650,AG115,Jackie Leyre,House,Inactive,91225 Warrior Trail,299238,Buy
+PO651,AG115,Jackie Leyre,Pent House,Active,03 Express Drive,49466,Rent
+PO652,AG115,Jackie Leyre,House,Inactive,67439 Delaware Trail,276883,Buy
+PO653,AG115,Jackie Leyre,House,Active,88462 Magdeline Avenue,335437,Rent
+PO654,AG115,Jackie Leyre,Full Floor,Inactive,849 Harbort Lane,389746,Buy
+PO655,AG115,Jackie Leyre,House,Inactive,09 Springs Crossing,143313,Buy
+PO656,AG115,Jackie Leyre,Appartment,Active,2 Corscot Alley,21957,Buy
+PO657,AG115,Jackie Leyre,Pent House,Inactive,1 Maple Wood Lane,65497,Rent
+PO658,AG115,Jackie Leyre,Villa,Inactive,82946 Texas Road,395017,Buy
+PO659,AG115,Jackie Leyre,House,Inactive,6 American Junction,284806,Rent
+PO660,AG115,Jackie Leyre,Pent House,Inactive,0578 Spenser Road,7925,Rent
+PO661,AG115,Jackie Leyre,Pent House,Inactive,4 Brentwood Way,60225,Buy
+PO662,AG115,Jackie Leyre,Villa,Inactive,71908 Dryden Street,355277,Buy
+PO663,AG115,Jackie Leyre,Appartment,Active,25328 Maryland Trail,321836,Buy
+PO664,AG115,Jackie Leyre,House,Active,50458 Rieder Drive,221581,Rent
+PO665,AG115,Jackie Leyre,Full Floor,Inactive,5850 Delaware Parkway,444340,Rent
+PO666,AG115,Lorenza Villar,Full Floor,Inactive,4271 Hooker Terrace,429018,Buy
+PO667,AG115,Lorenza Villar,Appartment,Inactive,435 Darwin Alley,64183,Rent
+PO668,AG115,Lorenza Villar,House,Active,25 Texas Lane,426654,Buy
+PO669,AG115,Lorenza Villar,House,Active,53 Messerschmidt Junction,199597,Rent
+PO670,AG115,Lorenza Villar,Appartment,Inactive,1 Bellgrove Road,237164,Rent
+PO671,AG115,Lorenza Villar,Villa,Inactive,222 Monterey Road,104052,Rent
+PO672,AG115,Lorenza Villar,Pent House,Active,053 Northfield Crossing,153456,Rent
+PO673,AG115,Lorenza Villar,Full Floor,Inactive,70481 Buhler Circle,79494,Rent
+PO674,AG115,Lorenza Villar,Villa,Inactive,83 Buell Street,422473,Rent
+PO675,AG115,Lorenza Villar,Villa,Inactive,7562 David Junction,307112,Buy
+PO676,AG115,Lorenza Villar,Appartment,Active,9770 Ramsey Park,92220,Buy
+PO677,AG115,Lorenza Villar,House,Active,392 Monica Drive,448202,Rent
+PO678,AG115,Lorenza Villar,House,Inactive,8 Crest Line Hill,245181,Buy
+PO679,AG115,Lorenza Villar,Pent House,Active,46 New Castle Hill,396797,Buy
+PO680,AG115,Lorenza Villar,Pent House,Active,7543 Maple Wood Way,173201,Rent
+PO681,AG115,Lorenza Villar,Appartment,Active,7473 Saint Paul Drive,163997,Buy
+PO682,AG115,Lorenza Villar,Appartment,Inactive,9112 Birchwood Junction,100214,Buy
+PO683,AG115,Lorenza Villar,Pent House,Active,6 Mallory Center,343423,Rent
+PO684,AG115,Lorenza Villar,Pent House,Active,300 Welch Plaza,106175,Buy
+PO685,AG115,Lorenza Villar,Full Floor,Inactive,83692 Loftsgordon Avenue,66257,Buy
+PO686,AG115,Lorenza Villar,Full Floor,Inactive,8 Coleman Way,276635,Buy
+PO687,AG115,Werner O'Fielly,Villa,Active,20 Welch Circle,382817,Rent
+PO688,AG115,Werner O'Fielly,Full Floor,Active,02 Haas Parkway,393999,Buy
+PO689,AG115,Werner O'Fielly,Appartment,Inactive,2304 Armistice Terrace,430366,Rent
+PO690,AG115,Werner O'Fielly,Appartment,Active,398 6th Place,251406,Rent
+PO691,AG115,Werner O'Fielly,Pent House,Inactive,48540 Granby Plaza,20941,Rent
+PO692,AG115,Werner O'Fielly,Villa,Active,450 Upham Center,342599,Rent
+PO693,AG115,Werner O'Fielly,Full Floor,Inactive,214 Kinsman Trail,367642,Buy
+PO694,AG115,Werner O'Fielly,Full Floor,Active,549 Charing Cross Junction,370138,Buy
+PO695,AG115,Werner O'Fielly,Appartment,Inactive,80981 Debra Avenue,440951,Buy
+PO696,AG115,Werner O'Fielly,Pent House,Inactive,4494 Schurz Crossing,474342,Buy
+PO697,AG115,Werner O'Fielly,Pent House,Inactive,4759 Starling Road,330149,Rent
+PO698,AG115,Werner O'Fielly,Appartment,Inactive,88620 Melvin Center,80085,Rent
+PO699,AG115,Werner O'Fielly,Villa,Inactive,08 Russell Trail,214157,Rent
+PO700,AG115,Werner O'Fielly,Appartment,Inactive,25028 Kinsman Avenue,284940,Rent
+PO701,AG115,Werner O'Fielly,Full Floor,Active,14219 Darwin Pass,457380,Buy
+PO702,AG115,Werner O'Fielly,Full Floor,Inactive,634 Sherman Plaza,260972,Rent
+PO703,AG115,Biddy Devonshire,Pent House,Inactive,81 Ryan Avenue,291859,Buy
+PO704,AG115,Biddy Devonshire,Appartment,Active,08005 Loftsgordon Drive,394299,Rent
+PO705,AG115,Biddy Devonshire,Pent House,Active,30270 Arizona Point,488210,Buy
+PO706,AG115,Biddy Devonshire,Pent House,Active,67 Jenna Crossing,323265,Rent
+PO707,AG115,Biddy Devonshire,Villa,Active,1 Sunnyside Junction,367098,Buy
+PO708,AG115,Biddy Devonshire,House,Inactive,96818 Gale Hill,25241,Buy
+PO709,AG115,Biddy Devonshire,Full Floor,Inactive,1 Westend Point,41618,Rent
+PO710,AG115,Biddy Devonshire,Pent House,Active,01 Clarendon Avenue,50515,Rent
+PO711,AG115,Biddy Devonshire,Villa,Inactive,38 Maple Wood Hill,452380,Buy
+PO712,AG115,Biddy Devonshire,Appartment,Active,430 Mosinee Lane,375496,Rent
+PO713,AG115,Biddy Devonshire,Pent House,Inactive,2 Vera Place,42193,Buy
+PO714,AG115,Biddy Devonshire,Appartment,Inactive,5 Loeprich Drive,167804,Buy
+PO715,AG115,Biddy Devonshire,Full Floor,Inactive,6 Towne Hill,245544,Buy
+PO716,AG115,Biddy Devonshire,Full Floor,Inactive,7 Orin Court,435701,Buy
+PO717,AG115,Biddy Devonshire,Appartment,Active,6182 Main Plaza,121187,Rent
+PO718,AG115,Biddy Devonshire,Pent House,Inactive,5 Kinsman Court,493176,Buy
+PO719,AG115,Biddy Devonshire,House,Inactive,78 Park Meadow Court,74358,Rent
+PO720,AG115,Biddy Devonshire,Villa,Inactive,3631 Hoepker Crossing,386652,Buy
+PO721,AG115,Biddy Devonshire,Appartment,Inactive,386 Veith Road,133551,Rent
+PO722,AG115,Biddy Devonshire,Appartment,Active,5 Straubel Park,271749,Buy
+PO723,AG115,Biddy Devonshire,House,Inactive,787 Independence Point,262956,Rent
+PO724,AG115,Biddy Devonshire,Full Floor,Inactive,8743 Green Ridge Pass,397919,Buy
+PO725,AG115,Biddy Devonshire,Full Floor,Inactive,7 Graceland Place,214906,Buy
+PO726,AG115,Biddy Devonshire,Villa,Active,5 Monterey Court,135188,Buy
+PO727,AG115,Biddy Devonshire,Villa,Inactive,46211 Acker Circle,172571,Buy
+PO728,AG115,Biddy Devonshire,Appartment,Inactive,5 Farmco Hill,78523,Rent
+PO729,AG115,Biddy Devonshire,Pent House,Inactive,8 Chive Avenue,237189,Buy
+PO730,AG115,Biddy Devonshire,House,Active,80914 Shasta Hill,161709,Rent
+PO731,AG115,Biddy Devonshire,Full Floor,Inactive,972 Parkside Circle,395293,Rent
+PO732,AG115,Biddy Devonshire,Villa,Active,386 Fulton Way,206245,Buy
+PO733,AG115,Biddy Devonshire,Full Floor,Inactive,155 Manley Alley,478708,Rent
+PO734,AG115,Biddy Devonshire,Villa,Active,08991 Banding Place,172759,Buy
+PO735,AG115,Biddy Devonshire,Pent House,Inactive,0464 Brickson Park Road,44523,Buy
+PO736,AG116,Biddy Devonshire,Appartment,Inactive,1364 Springview Crossing,360012,Rent
+PO737,AG116,Biddy Devonshire,Appartment,Active,99 Vera Park,140598,Buy
+PO738,AG116,Biddy Devonshire,Pent House,Active,86 David Junction,90203,Buy
+PO739,AG116,Biddy Devonshire,Appartment,Inactive,0 Jay Plaza,409404,Rent
+PO740,AG116,Biddy Devonshire,Villa,Active,65 Talmadge Park,229289,Buy
+PO741,AG116,Biddy Devonshire,Appartment,Active,7 Dorton Circle,264004,Rent
+PO742,AG116,Biddy Devonshire,Villa,Active,62762 Morrow Way,64927,Rent
+PO743,AG116,Biddy Devonshire,House,Active,35116 Main Point,3403,Buy
+PO744,AG116,Biddy Devonshire,Full Floor,Inactive,6 Londonderry Court,42932,Rent
+PO745,AG116,Biddy Devonshire,Villa,Inactive,192 Pierstorff Park,375756,Buy
+PO746,AG116,Biddy Devonshire,House,Inactive,6687 Holy Cross Lane,449336,Buy
+PO747,AG116,Biddy Devonshire,House,Inactive,091 Utah Way,191632,Rent
+PO748,AG116,Biddy Devonshire,Pent House,Inactive,826 Westend Pass,152775,Buy
+PO749,AG116,Biddy Devonshire,Pent House,Inactive,6 Merry Parkway,24251,Rent
+PO750,AG116,Biddy Devonshire,Villa,Inactive,01208 Corscot Parkway,380584,Buy
+PO751,AG116,Biddy Devonshire,Villa,Active,41 Straubel Crossing,385289,Buy
+PO752,AG116,Biddy Devonshire,House,Inactive,6 Declaration Parkway,152915,Buy
+PO753,AG116,Biddy Devonshire,Appartment,Inactive,0944 Service Parkway,218563,Rent
+PO754,AG116,Biddy Devonshire,Appartment,Active,98857 Bultman Avenue,319244,Rent
+PO755,AG116,Stefania Cowthart,House,Active,4211 Starling Center,459338,Rent
+PO756,AG116,Caren Bradman,Pent House,Inactive,3 Del Sol Place,104826,Buy
+PO757,AG116,Caren Bradman,Villa,Inactive,98723 Esch Court,457321,Buy
+PO758,AG116,Caren Bradman,House,Active,94884 La Follette Terrace,414808,Rent
+PO759,AG116,Caren Bradman,Appartment,Active,9891 Burning Wood Parkway,312551,Rent
+PO760,AG116,Caren Bradman,Villa,Inactive,9858 Buhler Court,198757,Buy
+PO761,AG116,Caren Bradman,Full Floor,Active,64179 Goodland Terrace,25952,Buy
+PO762,AG116,Caren Bradman,Appartment,Active,7636 Hayes Hill,486634,Rent
+PO763,AG116,Caren Bradman,Villa,Inactive,03 Forest Plaza,345606,Buy
+PO764,AG116,Caren Bradman,Villa,Inactive,31213 Old Shore Road,193616,Buy
+PO765,AG116,Caren Bradman,House,Active,5555 Spaight Park,301892,Buy
+PO766,AG116,Caren Bradman,Villa,Inactive,1617 Hoepker Road,443165,Rent
+PO767,AG116,Caren Bradman,Villa,Active,21947 Golf Plaza,318870,Rent
+PO768,AG116,Caren Bradman,House,Active,6 Elmside Park,338169,Buy
+PO769,AG116,Caren Bradman,Appartment,Active,1506 Linden Park,366012,Rent
+PO770,AG116,Caren Bradman,House,Inactive,9 Anthes Point,325105,Buy
+PO771,AG116,Caren Bradman,House,Inactive,88 Merrick Place,297561,Rent
+PO772,AG116,Howard Spragg,Villa,Inactive,53 Mosinee Alley,454757,Buy
+PO773,AG116,Berny Haselgrove,Full Floor,Active,76882 Westport Avenue,178050,Rent
+PO774,AG116,Berny Haselgrove,House,Active,6544 Norway Maple Terrace,78818,Rent
+PO775,AG116,Berny Haselgrove,Villa,Inactive,555 Fairview Circle,446645,Buy
+PO776,AG116,Berny Haselgrove,Appartment,Inactive,03 Prairie Rose Way,406539,Buy
+PO777,AG116,Berny Haselgrove,Full Floor,Active,96092 Dryden Terrace,67356,Buy
+PO778,AG116,Berny Haselgrove,Full Floor,Inactive,63 Ilene Hill,396745,Rent
+PO779,AG116,Berny Haselgrove,Pent House,Active,172 Ridge Oak Court,423184,Buy
+PO780,AG116,Berny Haselgrove,Pent House,Inactive,88657 Fulton Place,99182,Rent
+PO781,AG116,Berny Haselgrove,Pent House,Active,74 Mesta Lane,496034,Rent
+PO782,AG116,Berny Haselgrove,Villa,Inactive,618 Nova Pass,276917,Rent
+PO783,AG116,Berny Haselgrove,Pent House,Inactive,6325 Marcy Hill,203205,Buy
+PO784,AG116,Berny Haselgrove,Villa,Inactive,6666 Pleasure Court,40022,Buy
+PO785,AG116,Berny Haselgrove,Pent House,Inactive,728 Stuart Lane,482821,Buy
+PO786,AG116,Berny Haselgrove,Appartment,Inactive,33017 8th Street,35311,Buy
+PO787,AG116,Berny Haselgrove,Pent House,Active,81385 Homewood Way,42954,Rent
+PO788,AG116,Berny Haselgrove,Villa,Active,3 International Alley,65980,Buy
+PO789,AG116,Berny Haselgrove,House,Active,083 Buhler Drive,172812,Buy
+PO790,AG116,Berny Haselgrove,Full Floor,Inactive,98 Mosinee Way,204390,Rent
+PO791,AG116,Berny Haselgrove,Full Floor,Inactive,1 Anthes Way,391173,Rent
+PO792,AG116,Berny Haselgrove,Villa,Inactive,2 Portage Trail,308742,Rent
+PO793,AG116,Berny Haselgrove,House,Inactive,265 Westerfield Plaza,125430,Rent
+PO794,AG116,Berny Haselgrove,Pent House,Inactive,47229 Arapahoe Place,34698,Rent
+PO795,AG116,Bennett Ivkovic,Pent House,Active,61 Northland Court,60293,Rent
+PO796,AG116,Casar Prozillo,Pent House,Inactive,3 Kingsford Street,221801,Rent
+PO797,AG116,Enriqueta Bisson,Pent House,Active,1 Bluestem Parkway,489726,Buy
+PO798,AG116,Enriqueta Bisson,Villa,Inactive,7917 Grasskamp Circle,8699,Buy
+PO799,AG116,Enriqueta Bisson,Pent House,Active,93 Ryan Place,84763,Buy
+PO800,AG116,Enriqueta Bisson,House,Inactive,3 Surrey Plaza,357455,Rent
+PO801,AG116,Enriqueta Bisson,Full Floor,Active,17 Warbler Way,416910,Rent
+PO802,AG116,Enriqueta Bisson,Villa,Inactive,7 Stone Corner Way,499229,Buy
+PO803,AG116,Enriqueta Bisson,House,Active,0362 Scott Park,420536,Buy
+PO804,AG116,Enriqueta Bisson,House,Inactive,8 Oriole Point,402266,Buy
+PO805,AG116,Enriqueta Bisson,House,Inactive,8030 Lindbergh Junction,454144,Buy
+PO806,AG116,Enriqueta Bisson,Full Floor,Inactive,93006 Dayton Alley,150468,Buy
+PO807,AG116,Enriqueta Bisson,Villa,Active,10 Grayhawk Park,406632,Rent
+PO808,AG116,Enriqueta Bisson,Villa,Active,82 Heffernan Center,74998,Rent
+PO809,AG116,Enriqueta Bisson,Pent House,Active,4694 Old Gate Lane,344973,Rent
+PO810,AG116,Enriqueta Bisson,Appartment,Active,9227 Cascade Hill,89853,Rent
+PO811,AG116,Enriqueta Bisson,House,Inactive,1686 Carey Lane,104521,Rent
+PO812,AG116,Enriqueta Bisson,Villa,Active,5651 Linden Place,114784,Buy
+PO813,AG116,Enriqueta Bisson,Full Floor,Active,1 Namekagon Pass,64675,Rent
+PO814,AG116,Enriqueta Bisson,Villa,Active,4 Columbus Center,287419,Buy
+PO815,AG116,Enriqueta Bisson,Full Floor,Active,4702 Larry Trail,119005,Rent
+PO816,AG116,Enriqueta Bisson,Appartment,Inactive,1 New Castle Crossing,121251,Buy
+PO817,AG116,Enriqueta Bisson,Pent House,Inactive,79 School Way,411966,Rent
+PO818,AG116,Enriqueta Bisson,Villa,Active,7653 La Follette Pass,38585,Buy
+PO819,AG116,Enriqueta Bisson,Appartment,Active,5 Blackbird Road,161651,Buy
+PO820,AG116,Enriqueta Bisson,Full Floor,Inactive,1940 Annamark Drive,494114,Rent
+PO821,AG116,Enriqueta Bisson,Villa,Active,4049 Dwight Point,188852,Rent
+PO822,AG116,Enriqueta Bisson,Appartment,Active,90 Sunfield Trail,120917,Rent
+PO823,AG116,Enriqueta Bisson,Villa,Active,81731 Rockefeller Junction,417858,Buy
+PO824,AG116,Enriqueta Bisson,Appartment,Active,3 Fieldstone Pass,45120,Rent
+PO825,AG116,Enriqueta Bisson,Villa,Active,260 Anderson Avenue,460079,Rent
+PO826,AG116,Enriqueta Bisson,House,Active,1 Knutson Circle,438696,Rent
+PO827,AG116,Enriqueta Bisson,Villa,Inactive,35866 Scoville Junction,136428,Rent
+PO828,AG116,Enriqueta Bisson,Appartment,Inactive,829 Luster Place,145004,Buy
+PO829,AG116,Enriqueta Bisson,House,Active,60 Sundown Trail,132450,Buy
+PO830,AG116,Enriqueta Bisson,Pent House,Active,11027 Rockefeller Circle,11945,Buy
+PO831,AG116,Enriqueta Bisson,Villa,Inactive,2 Summer Ridge Parkway,176520,Rent
+PO832,AG116,Enriqueta Bisson,House,Active,414 Northfield Plaza,345192,Rent
+PO833,AG116,Enriqueta Bisson,Appartment,Inactive,2 Forster Parkway,246517,Buy
+PO834,AG116,Enriqueta Bisson,Appartment,Active,7536 Nevada Lane,415174,Buy
+PO835,AG116,Enriqueta Bisson,Villa,Active,2730 Union Hill,438524,Buy
+PO836,AG116,Enriqueta Bisson,House,Active,33577 Nobel Point,445090,Rent
+PO837,AG116,Enriqueta Bisson,Villa,Active,3213 Derek Street,430724,Buy
+PO838,AG116,Enriqueta Bisson,Full Floor,Inactive,5 Atwood Lane,225725,Rent
+PO839,AG116,Enriqueta Bisson,Villa,Inactive,24946 Calypso Trail,413826,Rent
+PO840,AG116,Enriqueta Bisson,Pent House,Active,0231 Eagan Point,252423,Buy
+PO841,AG116,Enriqueta Bisson,Pent House,Active,26 Havey Junction,413929,Buy
+PO842,AG116,Enriqueta Bisson,Appartment,Active,024 Luster Drive,59983,Rent
+PO843,AG116,Enriqueta Bisson,House,Inactive,84138 Haas Drive,391916,Buy
+PO844,AG116,Enriqueta Bisson,Appartment,Active,5 Sloan Parkway,111372,Rent
+PO845,AG116,Enriqueta Bisson,House,Inactive,302 Eagan Way,431211,Buy
+PO846,AG116,Enriqueta Bisson,Pent House,Active,959 Lien Street,226093,Buy
+PO847,AG116,Enriqueta Bisson,Appartment,Active,6706 Muir Junction,207578,Buy
+PO848,AG116,Enriqueta Bisson,Villa,Active,6462 Meadow Vale Way,458374,Rent
+PO849,AG116,Enriqueta Bisson,House,Inactive,3 Farmco Junction,357965,Buy
+PO850,AG116,Enriqueta Bisson,Full Floor,Active,5 Tennyson Way,77887,Buy
+PO851,AG116,Enriqueta Bisson,Pent House,Active,6825 Fairfield Junction,206090,Rent
+PO852,AG116,Enriqueta Bisson,House,Inactive,57574 Fairfield Crossing,42914,Rent
+PO853,AG116,Enriqueta Bisson,House,Inactive,83476 Grasskamp Drive,385965,Buy
+PO854,AG116,Enriqueta Bisson,Full Floor,Inactive,40709 Crowley Parkway,197728,Rent
+PO855,AG116,Enriqueta Bisson,House,Inactive,3378 Judy Point,226881,Rent
+PO856,AG116,Enriqueta Bisson,Pent House,Active,11 Derek Circle,37048,Rent
+PO857,AG116,Enriqueta Bisson,Appartment,Active,02 John Wall Trail,486924,Rent
+PO858,AG116,Enriqueta Bisson,Full Floor,Inactive,94507 Vidon Trail,353436,Rent
+PO859,AG116,Enriqueta Bisson,Villa,Active,0065 Spaight Way,92417,Rent
+PO860,AG116,Enriqueta Bisson,Full Floor,Inactive,1462 Monica Drive,258341,Rent
+PO861,AG116,Enriqueta Bisson,Villa,Active,5513 Farragut Way,478645,Buy
+PO862,AG116,Enriqueta Bisson,Full Floor,Active,07722 Scoville Center,249981,Buy
+PO863,AG116,Enriqueta Bisson,Villa,Active,42 Fieldstone Trail,113322,Buy
+PO864,AG116,Enriqueta Bisson,Full Floor,Inactive,81 Caliangt Crossing,289081,Buy
+PO865,AG116,Enriqueta Bisson,Full Floor,Inactive,46 Dottie Plaza,181147,Buy
+PO866,AG116,Patton Keilty,Appartment,Inactive,15113 Basil Circle,23465,Buy
+PO867,AG116,Jemimah Jindracek,House,Active,46 Beilfuss Place,341527,Buy
+PO868,AG116,Jemimah Jindracek,Villa,Inactive,20495 Bluestem Terrace,471635,Rent
+PO869,AG116,Jemimah Jindracek,House,Inactive,8572 Corben Plaza,276569,Buy
+PO870,AG116,Jemimah Jindracek,Villa,Active,42642 Mccormick Park,38297,Rent
+PO871,AG116,Jemimah Jindracek,House,Active,53700 Butterfield Road,201858,Rent
+PO872,AG116,Jemimah Jindracek,Full Floor,Active,1 Division Circle,30412,Buy
+PO873,AG116,Jemimah Jindracek,House,Active,44 Wayridge Circle,421096,Rent
+PO874,AG116,Jemimah Jindracek,Pent House,Active,3 Independence Park,273846,Buy
+PO875,AG116,Jemimah Jindracek,House,Active,58 Nevada Alley,384293,Buy
+PO876,AG116,Jemimah Jindracek,Villa,Active,986 Erie Drive,125360,Rent
+PO877,AG116,Jemimah Jindracek,Full Floor,Active,40102 Veith Trail,160394,Buy
+PO878,AG116,Jemimah Jindracek,Villa,Inactive,9961 Independence Trail,7563,Rent
+PO879,AG116,Jemimah Jindracek,Full Floor,Inactive,99164 Milwaukee Hill,465574,Buy
+PO880,AG116,Jemimah Jindracek,House,Inactive,45006 Bultman Way,203716,Rent
+PO881,AG116,Jemimah Jindracek,House,Inactive,64 Columbus Hill,369051,Rent
+PO882,AG116,Jemimah Jindracek,Pent House,Active,533 Summer Ridge Drive,120846,Buy
+PO883,AG116,Jemimah Jindracek,Appartment,Active,740 Springview Road,235704,Rent
+PO884,AG116,Jemimah Jindracek,House,Active,6 Bluejay Court,109055,Rent
+PO885,AG116,Jemimah Jindracek,Full Floor,Inactive,03383 Sundown Place,60208,Rent
+PO886,AG116,Jemimah Jindracek,House,Active,768 Barnett Pass,170539,Rent
+PO887,AG116,Jemimah Jindracek,Villa,Active,62950 Brickson Park Terrace,248084,Buy
+PO888,AG116,Colver Fargher,Appartment,Active,85541 Mccormick Park,331975,Buy
+PO889,AG116,Rina Cobleigh,Pent House,Inactive,4 Tony Hill,139438,Buy
+PO890,AG116,Abbot Conyard,Pent House,Active,68 Hollow Ridge Park,389664,Rent
+PO891,AG116,Abbot Conyard,Full Floor,Active,980 Hansons Plaza,350550,Rent
+PO892,AG116,Abbot Conyard,Villa,Active,1296 Park Meadow Way,28638,Rent
+PO893,AG116,Abbot Conyard,Pent House,Active,952 Bunting Street,215293,Rent
+PO894,AG116,Abbot Conyard,Villa,Active,1040 Burrows Terrace,164386,Rent
+PO895,AG116,Abbot Conyard,Appartment,Active,247 Bayside Place,343430,Rent
+PO896,AG116,Abbot Conyard,Full Floor,Active,40474 Bellgrove Avenue,114373,Buy
+PO897,AG116,Abbot Conyard,Pent House,Inactive,8 Twin Pines Court,73456,Buy
+PO898,AG116,Abbot Conyard,Villa,Active,35250 Green Ridge Crossing,348808,Buy
+PO899,AG116,Abbot Conyard,Villa,Active,8711 Nova Crossing,394724,Buy
+PO900,AG116,Abbot Conyard,Villa,Active,91 Debra Alley,39573,Buy
+PO901,AG116,Abbot Conyard,Pent House,Inactive,44783 Beilfuss Way,342131,Rent
+PO902,AG116,Abbot Conyard,Villa,Inactive,154 Division Hill,9216,Buy
+PO903,AG116,Abbot Conyard,Pent House,Inactive,69841 Crowley Hill,245861,Rent
+PO904,AG116,Abbot Conyard,Villa,Active,7638 Springs Alley,157815,Buy
+PO905,AG116,Ransom Fountian,Pent House,Active,86284 Dawn Street,187903,Buy
+PO906,AG116,Kerry Manuaud,Pent House,Active,146 Monument Point,427526,Rent
+PO907,AG116,Findley Garralts,Pent House,Inactive,3 Clyde Gallagher Junction,308003,Buy
+PO908,AG116,Ingemar Yeudall,Appartment,Inactive,07 Valley Edge Junction,348847,Buy
+PO909,AG116,Ingemar Yeudall,Pent House,Inactive,6927 Melody Street,467005,Buy
+PO910,AG116,Ingemar Yeudall,Full Floor,Active,30144 Mandrake Park,116364,Rent
+PO911,AG116,Ingemar Yeudall,Pent House,Inactive,0039 Anthes Way,356995,Rent
+PO912,AG116,Ingemar Yeudall,Full Floor,Active,81687 Banding Way,176482,Buy
+PO913,AG116,Ingemar Yeudall,House,Active,63 Brown Hill,487811,Rent
+PO914,AG116,Ingemar Yeudall,Pent House,Active,25 Elmside Road,76193,Rent
+PO915,AG116,Ingemar Yeudall,House,Inactive,51872 1st Point,284320,Buy
+PO916,AG116,Ingemar Yeudall,House,Inactive,634 Laurel Road,482144,Buy
+PO917,AG116,Ingemar Yeudall,Appartment,Inactive,82421 Hintze Street,439169,Rent
+PO918,AG116,Ingemar Yeudall,Pent House,Active,5 Sullivan Drive,138381,Rent
+PO919,AG116,Ingemar Yeudall,Pent House,Inactive,04989 Marquette Center,275732,Rent
+PO920,AG116,Ingemar Yeudall,Appartment,Active,019 Bluejay Junction,292955,Buy
+PO921,AG116,Ingemar Yeudall,Villa,Inactive,8773 Barby Center,332375,Rent
+PO922,AG116,Ingemar Yeudall,Villa,Active,88 Northland Plaza,323059,Rent
+PO923,AG116,Ingemar Yeudall,Appartment,Active,1975 Petterle Alley,270213,Buy
+PO924,AG116,Ingemar Yeudall,House,Active,7091 Alpine Plaza,101802,Rent
+PO925,AG116,Ignacius Peirson,Appartment,Active,04897 Debra Parkway,466057,Rent
+PO926,AG116,Sollie Oldaker,House,Active,48381 Ohio Lane,32940,Rent
+PO927,AG116,Averil Ouldred,House,Inactive,28 Iowa Junction,401693,Buy
+PO928,AG116,Morganica O'Kenny,Pent House,Active,810 Melrose Trail,405648,Buy
+PO929,AG116,Harman Chafer,Full Floor,Inactive,4006 Ronald Regan Place,210851,Buy
+PO930,AG116,Chauncey Coaker,House,Inactive,524 Kenwood Place,1671,Rent
+PO931,AG116,Catherin Pablos,Villa,Active,6183 Michigan Road,426826,Rent
+PO932,AG116,Othilia Criple,Pent House,Active,782 Swallow Way,308300,Rent
+PO933,AG116,Michelle Monkhouse,House,Inactive,8602 Corry Center,415694,Rent
+PO934,AG116,Ase Masden,Pent House,Inactive,8511 Grim Avenue,458703,Buy
+PO935,AG116,Ase Masden,Pent House,Inactive,25 Namekagon Terrace,245934,Buy
+PO936,AG116,Ase Masden,Pent House,Active,3 Warbler Hill,496967,Rent
+PO937,AG116,Ase Masden,Pent House,Active,33 Esch Road,76734,Rent
+PO938,AG116,Ase Masden,Pent House,Inactive,03402 Logan Trail,273859,Rent
+PO939,AG116,Ase Masden,Pent House,Inactive,55 Mccormick Pass,192456,Rent
+PO940,AG116,Ase Masden,Appartment,Active,599 Grover Trail,264118,Buy
+PO941,AG116,Vinita Botten,Appartment,Inactive,338 Myrtle Avenue,82965,Buy
+PO942,AG116,Amandy Andrick,Appartment,Inactive,633 Manitowish Center,350663,Rent
+PO943,AG116,Odelia Sacker,Appartment,Inactive,9904 Doe Crossing Place,166000,Rent
+PO944,AG116,Dede Haggata,Full Floor,Inactive,33894 Eliot Alley,423169,Buy
+PO945,AG116,Denny Fourman,House,Active,8 Mandrake Pass,466745,Rent
+PO946,AG116,Brion Wraight,House,Active,390 Lillian Center,377999,Buy
+PO947,AG116,Brion Wraight,Pent House,Active,5537 Quincy Pass,41724,Rent
+PO948,AG116,Brion Wraight,Pent House,Active,11 Crowley Trail,396626,Buy
+PO949,AG116,Brion Wraight,Appartment,Active,5365 Corscot Crossing,444592,Rent
+PO950,AG116,Brion Wraight,Appartment,Active,51 Burrows Junction,192432,Rent
+PO951,AG116,Brion Wraight,House,Active,7127 Sommers Junction,89838,Rent
+PO952,AG116,Brion Wraight,Appartment,Inactive,62 Shelley Road,239266,Rent
+PO953,AG116,Brion Wraight,Appartment,Active,1 Gateway Terrace,453826,Buy
+PO954,AG116,Brion Wraight,Villa,Inactive,6040 2nd Place,358499,Rent
+PO955,AG116,Brion Wraight,Full Floor,Inactive,3 Blue Bill Park Street,465136,Rent
+PO956,AG116,Brion Wraight,Full Floor,Inactive,3 Memorial Parkway,210109,Buy
+PO957,AG116,Brion Wraight,House,Active,0654 Mariners Cove Lane,343844,Buy
+PO958,AG116,Brion Wraight,Pent House,Active,6596 Arapahoe Parkway,415626,Rent
+PO959,AG116,Brion Wraight,Villa,Inactive,13861 Delladonna Park,162319,Buy
+PO960,AG116,Brion Wraight,Full Floor,Active,649 Banding Circle,78298,Rent
+PO961,AG116,Brion Wraight,Villa,Inactive,432 Pond Place,419230,Buy
+PO962,AG117,Agata Soanes,Appartment,Active,78879 Leroy Way,52596,Rent
+PO963,AG117,Vanya Rettie,Full Floor,Inactive,01 Hayes Center,46251,Rent
+PO964,AG117,Chaddy Tethacot,Pent House,Inactive,432 Maple Wood Center,382060,Buy
+PO965,AG117,Sybyl Jakoub,Full Floor,Inactive,4825 Morrow Street,363753,Rent
+PO966,AG117,Shelba Schuster,Full Floor,Inactive,2110 Brickson Park Place,468730,Buy
+PO967,AG117,Brennan Castenda,Villa,Active,60106 Lake View Point,31463,Rent
+PO968,AG117,Deeyn Marcus,Full Floor,Inactive,8 Ruskin Plaza,170059,Rent
+PO969,AG117,Ram Speak,Full Floor,Active,71 Ridgeview Street,67284,Buy
+PO970,AG117,Munmro Rayson,Villa,Active,65157 Vernon Hill,12310,Rent
+PO971,AG117,Alec Spikeings,Full Floor,Active,1803 Summer Ridge Lane,257916,Buy
+PO972,AG117,Stevana Fernihough,Appartment,Inactive,0 Brentwood Way,50402,Buy
+PO973,AG117,Anni Perotti,Pent House,Inactive,405 Park Meadow Pass,391939,Buy
+PO974,AG117,Rawley Chopy,Full Floor,Inactive,5 Ridgeway Road,280150,Buy
+PO975,AG117,Augusto Thunderman,Villa,Inactive,11 Valley Edge Park,147406,Rent
+PO976,AG117,Augusto Thunderman,Full Floor,Inactive,31 Anderson Terrace,28090,Rent
+PO977,AG117,Augusto Thunderman,Pent House,Inactive,36505 7th Parkway,50603,Buy
+PO978,AG117,Augusto Thunderman,Pent House,Active,940 Talisman Trail,280070,Buy
+PO979,AG117,Augusto Thunderman,House,Inactive,7 Utah Trail,69341,Rent
+PO980,AG117,Augusto Thunderman,Pent House,Inactive,32142 Cordelia Pass,166722,Rent
+PO981,AG117,Augusto Thunderman,Pent House,Inactive,892 Westend Circle,239929,Buy
+PO982,AG117,Augusto Thunderman,Full Floor,Active,56 Bellgrove Street,77387,Rent
+PO983,AG117,Augusto Thunderman,Appartment,Active,99846 Heath Street,391893,Buy
+PO984,AG117,Augusto Thunderman,Full Floor,Inactive,4 7th Street,12960,Rent
+PO985,AG117,Augusto Thunderman,Full Floor,Inactive,8 Melody Way,296492,Rent
+PO986,AG117,Augusto Thunderman,Full Floor,Active,31 Pearson Alley,43564,Buy
+PO987,AG117,Augusto Thunderman,Villa,Inactive,5 Eliot Hill,294061,Rent
+PO988,AG117,Augusto Thunderman,Pent House,Inactive,20 Debs Trail,23788,Rent
+PO989,AG117,Augusto Thunderman,Pent House,Inactive,91491 Bonner Circle,233718,Buy
+PO990,AG117,Celka Handke,House,Active,86 Sherman Parkway,281280,Rent
+PO991,AG117,Madelaine Fessler,House,Inactive,8 Onsgard Crossing,377373,Buy
+PO992,AG117,Ingeborg Farrar,Pent House,Inactive,9977 Red Cloud Road,205696,Buy
+PO993,AG117,Fidelio Haseman,Pent House,Active,0 Hooker Road,397351,Rent
+PO994,AG117,Jewelle Keiley,Villa,Active,009 Springs Lane,242113,Rent
+PO995,AG117,Arther Larby,Full Floor,Active,93 Walton Circle,490426,Buy
+PO996,AG117,Gill Summons,Pent House,Active,6821 Ridgeway Avenue,329949,Buy
+PO997,AG117,Magdalene Jeacocke,Appartment,Inactive,32 Pankratz Court,190392,Buy
+PO998,AG117,Noble MacCurlye,Villa,Active,2425 Jackson Drive,139867,Buy
+PO999,AG117,Noble MacCurlye,Full Floor,Inactive,485 Golf View Center,100511,Rent
+PO1000,AG117,Noble MacCurlye,House,Inactive,300 Quincy Plaza,316399,Buy
+PO1001,AG117,Noble MacCurlye,Appartment,Inactive,61568 Steensland Plaza,321407,Buy
+PO1002,AG117,Noble MacCurlye,Villa,Inactive,6 Golf Course Road,469774,Rent
+PO1003,AG117,Noble MacCurlye,Pent House,Active,6020 Bowman Center,333334,Rent
+PO1004,AG117,Noble MacCurlye,House,Active,04 Spaight Way,171552,Buy
+PO1005,AG117,Noble MacCurlye,Appartment,Active,641 Old Gate Terrace,459213,Rent
+PO1006,AG117,Noble MacCurlye,Appartment,Active,26 Vernon Drive,15672,Rent
+PO1007,AG117,Noble MacCurlye,House,Active,418 Ryan Street,214639,Buy
+PO1008,AG117,Noble MacCurlye,Appartment,Active,14 Talmadge Drive,418845,Rent
+PO1009,AG117,Noble MacCurlye,Appartment,Active,8 Clarendon Street,103202,Buy
+PO1010,AG117,Noble MacCurlye,House,Inactive,8248 Packers Place,304885,Rent
+PO1011,AG117,Noble MacCurlye,Full Floor,Active,9195 Novick Pass,98729,Buy
+PO1012,AG117,Noble MacCurlye,Full Floor,Inactive,19 Autumn Leaf Parkway,54909,Rent
+PO1013,AG117,Noble MacCurlye,Appartment,Active,643 Kim Drive,382967,Buy
+PO1014,AG117,Noble MacCurlye,Villa,Inactive,5 Express Terrace,425106,Buy
+PO1015,AG117,Noble MacCurlye,Villa,Active,2 Maple Crossing,169701,Rent
+PO1016,AG117,Noble MacCurlye,Pent House,Inactive,2 Mayfield Trail,273702,Buy
+PO1017,AG117,Noble MacCurlye,House,Active,6 Birchwood Junction,277557,Rent
+PO1018,AG117,Noble MacCurlye,Pent House,Active,328 Kenwood Crossing,402174,Buy
+PO1019,AG117,Noble MacCurlye,Pent House,Active,7 Thompson Trail,67464,Rent
+PO1020,AG117,Lexy Sings,Villa,Active,21799 Corry Pass,23720,Buy
+PO1021,AG117,Hedda O'Sculley,Full Floor,Inactive,66618 Chive Center,63392,Buy
+PO1022,AG117,Maurise Fearby,Full Floor,Inactive,9 Old Gate Crossing,129762,Rent
+PO1023,AG117,Millicent Vincent,Villa,Active,2 Pine View Court,318965,Buy
+PO1024,AG117,Millicent Vincent,Pent House,Active,630 Kensington Point,12356,Rent
+PO1025,AG117,Millicent Vincent,Villa,Inactive,1 Esker Circle,56233,Rent
+PO1026,AG117,Millicent Vincent,Pent House,Inactive,887 Corry Junction,123105,Buy
+PO1027,AG117,Millicent Vincent,Pent House,Active,48768 Kinsman Court,380176,Rent
+PO1028,AG117,Millicent Vincent,Full Floor,Inactive,07064 Truax Point,270351,Rent
+PO1029,AG117,Millicent Vincent,Appartment,Active,2517 Thackeray Junction,254199,Buy
+PO1030,AG117,Millicent Vincent,Pent House,Active,05 Norway Maple Trail,91143,Buy
+PO1031,AG117,Millicent Vincent,Full Floor,Active,95557 Anniversary Trail,190136,Buy
+PO1032,AG117,Millicent Vincent,Villa,Inactive,330 Macpherson Terrace,117669,Rent
+PO1033,AG117,Millicent Vincent,Pent House,Inactive,9 Northview Circle,105955,Buy
+PO1034,AG117,Millicent Vincent,Full Floor,Inactive,49313 Coleman Terrace,125608,Rent
+PO1035,AG117,Millicent Vincent,Villa,Inactive,7 Bunting Point,373502,Rent
+PO1036,AG117,Millicent Vincent,Appartment,Active,212 Doe Crossing Trail,311979,Rent
+PO1037,AG117,Millicent Vincent,Full Floor,Inactive,98236 Dawn Parkway,360921,Rent
+PO1038,AG117,Millicent Vincent,Pent House,Inactive,4 Eggendart Terrace,428557,Buy
+PO1039,AG117,Millicent Vincent,Appartment,Inactive,695 Lillian Hill,314445,Rent
+PO1040,AG117,Millicent Vincent,Villa,Active,22 Tennessee Circle,241985,Buy
+PO1041,AG117,Sansone Leppo,Appartment,Active,53949 Loftsgordon Court,210949,Rent
+PO1042,AG118,Arda Wethey,Pent House,Inactive,550 Lindbergh Alley,163068,Buy
+PO1043,AG118,Arda Wethey,Villa,Inactive,19 1st Pass,343020,Buy
+PO1044,AG118,Arda Wethey,Full Floor,Active,024 Scoville Court,323238,Rent
+PO1045,AG118,Arda Wethey,Full Floor,Inactive,6 Fremont Drive,336016,Rent
+PO1046,AG118,Arda Wethey,Villa,Inactive,98326 Ludington Park,41667,Rent
+PO1047,AG118,Arda Wethey,House,Inactive,94 Hagan Court,11651,Rent
+PO1048,AG118,Arda Wethey,Full Floor,Active,5 Calypso Way,229524,Buy
+PO1049,AG118,Arda Wethey,House,Inactive,237 Main Plaza,480963,Buy
+PO1050,AG118,Arda Wethey,Pent House,Inactive,642 Center Lane,113770,Buy
+PO1051,AG118,Arda Wethey,Full Floor,Inactive,67 Sheridan Parkway,389269,Buy
+PO1052,AG118,Arda Wethey,Pent House,Active,9 Carey Point,59260,Rent
+PO1053,AG118,Arda Wethey,Appartment,Inactive,5 Coleman Crossing,437924,Buy
+PO1054,AG118,Arda Wethey,House,Inactive,55662 Jana Parkway,371145,Rent
+PO1055,AG118,Arda Wethey,Full Floor,Inactive,77848 Sunfield Hill,490899,Buy
+PO1056,AG118,Arda Wethey,House,Inactive,711 School Park,473821,Buy
+PO1057,AG118,Rea Lorrie,Appartment,Active,070 Summerview Street,134392,Buy
+PO1058,AG118,Cassi Goreway,Full Floor,Inactive,164 Leroy Junction,357380,Rent
+PO1059,AG118,Moyna Astill,Pent House,Active,008 Debs Pass,384804,Buy
+PO1060,AG118,Leland Braemer,House,Active,445 Maple Wood Crossing,77769,Rent
+PO1061,AG118,Leland Braemer,Villa,Inactive,06 Ridgeview Road,354634,Buy
+PO1062,AG118,Leland Braemer,House,Active,1 Drewry Terrace,161900,Rent
+PO1063,AG118,Leland Braemer,Appartment,Active,0832 Elmside Place,70774,Buy
+PO1064,AG118,Leland Braemer,House,Active,84527 Clove Park,7974,Buy
+PO1065,AG118,Leland Braemer,House,Inactive,9775 Sutteridge Hill,16585,Rent
+PO1066,AG118,Leland Braemer,Appartment,Inactive,6831 Superior Junction,114751,Buy
+PO1067,AG118,Leland Braemer,Pent House,Inactive,484 Scofield Hill,63945,Buy
+PO1068,AG118,Leland Braemer,Villa,Active,86358 Portage Point,177015,Rent
+PO1069,AG118,Leland Braemer,Pent House,Active,8684 Barnett Point,151771,Buy
+PO1070,AG118,Leland Braemer,Pent House,Inactive,33123 Eagle Crest Plaza,377046,Rent
+PO1071,AG118,Leland Braemer,Appartment,Inactive,74 Loeprich Hill,346979,Rent
+PO1072,AG118,Kariotta Graves,Villa,Inactive,6373 Harbort Drive,154131,Buy
+PO1073,AG118,Levey Dady,House,Active,33928 Sauthoff Avenue,167601,Rent
+PO1074,AG118,Diarmid Perell,House,Active,12 Northridge Park,82076,Buy
+PO1075,AG118,Dix Lethardy,Appartment,Inactive,40675 Fordem Place,120275,Rent
+PO1076,AG118,Casandra Bonar,Full Floor,Active,494 Memorial Crossing,112959,Rent
+PO1077,AG118,Suzie McGuiney,Pent House,Inactive,2952 Fairfield Drive,119640,Rent
+PO1078,AG118,Suzie McGuiney,Pent House,Inactive,60286 Trailsway Road,180768,Rent
+PO1079,AG118,Suzie McGuiney,House,Inactive,34 Lake View Street,308047,Rent
+PO1080,AG118,Suzie McGuiney,Full Floor,Active,5431 Lakewood Gardens Road,152253,Rent
+PO1081,AG118,Suzie McGuiney,Appartment,Active,7 Badeau Crossing,125759,Rent
+PO1082,AG118,Suzie McGuiney,House,Active,9 Chive Avenue,225299,Buy
+PO1083,AG118,Suzie McGuiney,Appartment,Inactive,3 Hooker Road,216314,Rent
+PO1084,AG118,Suzie McGuiney,Villa,Inactive,871 Caliangt Junction,52445,Buy
+PO1085,AG118,Suzie McGuiney,Full Floor,Active,20 Hoffman Street,181442,Buy
+PO1086,AG118,Suzie McGuiney,House,Inactive,34574 Clyde Gallagher Way,400533,Buy
+PO1087,AG118,Suzie McGuiney,Appartment,Active,61 Karstens Point,269771,Buy
+PO1088,AG118,Suzie McGuiney,Appartment,Inactive,6 Fisk Circle,80548,Buy
+PO1089,AG118,Suzie McGuiney,Full Floor,Active,74435 Veith Pass,283747,Buy
+PO1090,AG118,Suzie McGuiney,Full Floor,Inactive,3598 Northfield Drive,20863,Rent
+PO1091,AG118,Suzie McGuiney,Appartment,Inactive,14 Golf Course Junction,450959,Rent
+PO1092,AG118,Suzie McGuiney,Appartment,Inactive,84 Kinsman Lane,221920,Buy
+PO1093,AG118,Suzie McGuiney,Full Floor,Inactive,87586 Northport Road,72596,Buy
+PO1094,AG118,Suzie McGuiney,Villa,Inactive,10462 Valley Edge Plaza,159747,Buy
+PO1095,AG118,Suzie McGuiney,Full Floor,Active,5 West Crossing,246300,Rent
+PO1096,AG118,Suzie McGuiney,Full Floor,Inactive,44 Autumn Leaf Road,179453,Buy
+PO1097,AG118,Suzie McGuiney,Pent House,Active,0 Ridgeway Drive,457937,Buy
+PO1098,AG118,Suzie McGuiney,Villa,Active,62138 Ludington Junction,490580,Buy
+PO1099,AG118,Suzie McGuiney,2,Inactive,9947 Kropf Trail,367518,0
